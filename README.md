@@ -27,7 +27,6 @@ techniques.
 ## Usage
 
 ```bash
-pip install -r requirements.txt
 python clean_data.py
 ```
 
@@ -48,4 +47,3 @@ everything with something":
 
 ## License
 
-MIT
