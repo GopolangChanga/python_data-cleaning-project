@@ -1,0 +1,516 @@
+customer_id,full_name,age,gender,email,phone_number,country,zip_code,signup_date,last_purchase_date,product_category,purchase_amount,annual_salary,satisfaction_rating,is_subscribed,notes,loyalty_points
+1304,Ernest Holden,89.0,Non-binary,ernest.holden@hotmail.com,+1-260-602-9084,Germany,55460,2024/01/16,2018/12/09,Clothing,121.42 USD,"$68,242.61",2.0,No,Though red them return finish general.,N/A
+1499,heidi moran,56.0,Female,heidi.moran@yahoo.com,876.112.4912,France,48534,2024/08/20,2024/08/31,ELECTRONICS,398.38,31042.44,1.0,no,See attached file!!!,
+1441,john lowery,40.0,Non-binary,john.lowery@yahoo.com,400.564.3502,United States of America,27270,,24 Feb 2022,Home & Garden,451.41,52152.41,2.0,N,   ,200.5
+1153,  Steven Friedman  ,33.0,M,steven.friedman@company.com,unknown,UK,35668,"August 18, 2021",21/03/2024,clothing ,229.77,59549.2,3.0,0,   ,
+1188,  Logan Sullivan  ,43.0,Non-binary,logan.sullivan@company.com,112-535-5449,france,84995,"April 24, 2022",01-10-2022,Toys,269.64,61823.04,2.0,1,Even know television guy only whole.,100
+1131,Rachel Walker,46.0,m,rachel.walker@gmail.com,(926) 442-2096,france,74882,2025-01-10,2025-01-31,Clothing,278.04,70820.64,2.0,0,NULL,200.5
+1204,Deborah Ross,60.0,Male,deborah.ross@company.com,6227837693,,74054,N/A,11/01/2018,Books,334.63,24703.06,,Y,INTEREST GIVE FLY ORDER AGENCY FIGHT.,100
+1166,brendan bonilla,57.0,,brendan.bonilla@company.com,unknown,S. Africa,71014,2022/06/03,2018/06/07,Clothing,200.83,41399.51,,Y,STOCK THESE SCIENTIST ITSELF STAGE AUTHORITY RATHER.,-
+1325,  Joseph Matthews  ,14.0,M,joseph.matthews@gmail.com,110.919.3928,Germany,34092,27/12/2018,2024-01-11,Electronics,473.84 USD,67592.58,3.0,yes,,150
+1247,Jennifer Aguirre,43.0,M,JENNIFER.AGUIRRE@YAHOO.COM,723-248-7632,UK,80525,26 Jun 2023,,Toys,66.09,40693.93,1.0,No,PHYSICAL SITE GIRL ABOVE.,100
+1465,  James Gutierrez  ,36.0,m,james.gutierrez@yahoo.com,unknown,RSA,72977,2019-09-14,N/A,ELECTRONICS,371.53,"$35,701.53",2.0,no,SOCIAL AMOUNT EXECUTIVE AGENCY PLACE READ.,150
+1353,,68.0,M,latoya@company.com,(698) 477-5965,south africa,49100,22/01/2022,14 Sep 2020,Home & Garden,42.84,34879.65,2.0,1,   ,-
+1289,  Carl Savage  ,41.0,F,carl.savage@gmail.com,456-449-4856,U.S.,22125,N/A,"October 03, 2022",books,340.0,,1.0,true,,-
+1084,  Zachary Michael  ,5.0,,zachary.michael@gmail.com,(170) 462-2656,United Kingdom,59291,"August 05, 2024",2019/11/11,Electronics,268.48,50606.56,5.0,,N/A,200.5
+1010,michael cross,71.0,Non-binary,michael.cross at gmail.com,unknown,USA,73346,2024/07/13,06-13-2018,books,206.16,45731.65,2.0,true,Choice father why often my security arm.,100
+1324,amy lang,76.0,Non-binary,amy.lang@gmail.com,049-611-0804,germany,50499,2022-07-08,2018-03-08,clothing ,378.08,71257.24,4.0,false,N/A,200.5
+1078,Raymond Thomas,27.0,,raymond.thomas@gmail.com,+1-041-574-7338,United States of America,36038,09-18-2020,30 Oct 2018,books,-435.47,2605.1,5.0,,N/A,
+1030,,57.0,f,edward@hotmail.com,9413186999,United Kingdom,30082,2023-06-03,2021-04-24,,390.26,42965.87,2.0,0,,
+1184,  Dr. Sheila Henry  ,19.0,Male,dr..sheila.henry@company.com,846.392.0867,UK,71380,2021-11-14,18 Nov 2019,books,343.34,39925.28,4.0,true,,-
+1195,JENNIFER SANCHEZ,67.0,,jennifer.sanchez@yahoo.com,097.925.1327,Germany,12481,07/10/2020,20/08/2024,Electronics,,67513.35,,1,See attached file!!!,200.5
+1222,  Wayne Ramirez  ,54.0,f,wayne.ramirez@company.com,056-829-9629,france,15816,10/01/2025,2019-11-23,electronics,-89.21,65275.72,4.0,No,   ,-
+1209,,25.0,m,ERIC@GMAIL.COM,unknown,Deutschland,41445,11/08/2024,24 Dec 2021,Home & Garden,59.61,58463.62,,N,TRAVEL INVOLVE TRAINING SHOW PREVENT NORTH CITIZEN.,-
+1281,Kathryn Martinez,85.0,Male,kathryn.martinez@company.com,+1-984-713-9155,S. Africa,770,03-05-2021,2022-06-01,Electronics,356.25,53809.49,2.0,no,   ,150
+1208,ROBIN GARRETT,5.0,Other,robin.garrett@company.com,,United States,51248,2019/05/23,2021-12-10,,84.48,30085.22,,0,Want we difficult.,100
+1124,samuel davis,90.0,m,samuel.davis@gmail.com,490.352.1356,south africa,67801,2018-08-09,20/12/2022,,303.68,51152.78,2.0,yes,N/A,200.5
+1250,  Jason Gonzalez  ,67.0,,jason.gonzalez@gmail.com,+1-317-970-6239,france,60137,22 Jan 2018,"April 14, 2018",Clothing,167.97 USD,"$59,329.17",1.0,0,,150
+1076,  Jonathan Carr  ,77.0,f,jonathan.carr@gmail.com,unknown,england,62315,"November 26, 2019",13/07/2023,Books,183.76,54283.48,2.0,Y,Relationship million night your.,200.5
+1382,  Mark Mcmahon  ,39.0,Non-binary,mark.mcmahon@yahoo.com,424-033-8105,Germany,83428,2020/02/24,"September 25, 2020",home and garden,345.99,,2.0,,NULL,150
+1342,stephen robles,61.0,Other,stephen.robles@yahoo.com,220-681-5583,,823,10-20-2023,,clothing ,129.43,55420.08,,0,   ,150
+1323,BENJAMIN GREENE,28.0,,benjamin.greene@hotmail.com,unknown,United Kingdom,57979,2019/02/26,2018/11/03,Home & Garden,103.08 USD,"$61,145.99",1.0,No,HELP THREE REALLY.,150
+1244,kelly bentley,150.0,Male,,,S. Africa,708,07 Aug 2019,2019-05-11,Books,254.69,76779.01,,Yes,See attached file!!!,100
+1331,,63.0,m,ronald@gmail.com,unknown,Deutschland,49926,"October 29, 2023","June 21, 2020",,486.78,57346.55,3.0,,ONCE LET PERFORM INTERNATIONAL LEVEL.,200.5
+1140,Robert Turner,67.0,M,robert.turner@gmail.com,unknown,,37246,06/02/2021,2024-06-12,electronics,173.28,56993.03,3.0,false,See attached file!!!,200.5
+1009,  Corey Herrera  ,57.0,Other,corey.herrera@gmail.com,262-473-1781,United States of America,07131,"March 15, 2019",05/11/2021,clothing ,423.82 USD,65851.2,,yes,NULL,200.5
+1072,  Julie Koch DDS  ,-1.0,,,+1-168-733-9500,United States,,N/A,30/10/2022,Clothing,129.95,0,2.0,no,NULL,100
+1400,,68.0,Non-binary,MORGAN@COMPANY.COM,157-787-1121,United States,52529,16/10/2022,2021/08/30,,447.16,"$39,539.80",1.0,Yes,Current forget fish you main reduce.,150
+1487,troy white,5.0,,troy.white at hotmail.com,6817151602,Germany,42316,01-31-2018,2024/09/01,Books,278.04,36202.4,2.0,Y,See attached file!!!,200.5
+1225,  Ashley Daniels  ,,Male,ashley.daniels@hotmail.com,8542493214,Uk,80882,20/11/2022,2019/09/12,Electronics,32.01,66417.81,11.0,Yes,INTERVIEW CONDITION OTHER OR.,200.5
+1073,JAMES HUDSON,84.0,M,james.hudson@company.com,358.416.8784,UK,821,"November 13, 2022",2019/01/26,,28.05 USD,42097.6,1.0,yes,,100
+1177,  Marie Boyd  ,60.0,,marie.boyd@yahoo.com,5086376599,S. Africa,13308,09-15-2021,10 Dec 2021,,256.44,78171.91,,Y,ELECTION ACCEPT SEASON ACCORDING MISSION MIND.,N/A
+1403,  Deborah Bowen  ,42.0,M,DEBORAH.BOWEN@YAHOO.COM,(727) 910-3368,Deutschland,22272,2018/09/08,2022/03/03,books,372.27,"$84,022.87",4.0,no,NULL,200.5
+1068,barbara harris,19.0,Other,barbara.harris@hotmail.com,237.058.9578,UK,17510,2022/10/16,2022/04/11,home and garden,271.27,"$53,559.80",1.0,1,See attached file!!!,200.5
+1155,MONICA SNOW,78.0,F,,771.670.1450,Deutschland,92850,24 Nov 2018,08-31-2022,books,,0,,no,N/A,100
+1055,,27.0,Non-binary,justin@gmail.com,1998679807,Deutschland,75429,07-22-2022,30 Aug 2022,Home & Garden,431.08,67233.53,4.0,No,NULL,N/A
+1405,,1.0,m,mary@hotmail.com,unknown,usa,12250,28/05/2024,08/08/2019,clothing ,57.09,98063.65,5.0,1,NULL,N/A
+1298,,68.0,m,thomas@yahoo.com,(012) 277-7079,USA,32302,2021-04-10,06-29-2019,Clothing,5.69,"$64,242.07",5.0,Y,,N/A
+1077,Maria Steele,80.0,Non-binary,maria.steele@hotmail.com,973.348.4344,United States of America,92893,"October 06, 2024",07-31-2021,Clothing,143.75,86292.87,2.0,,Real major look night various.,200.5
+1468,james watson md,34.0,,james.watson.md@yahoo.com,(173) 906-3757,USA,74314,2022-02-02,2019/01/14,clothing ,150.11,19825.21,5.0,No,   ,150
+1317,john valenzuela,,Non-binary,,,RSA,88673,"October 27, 2023",28/10/2022,home and garden,401.66,45139.98,3.0,1,,150
+1475,joseph schmidt,22.0,,joseph.schmidt@company.com,9324268774,Deutschland,90333,2020/11/23,"September 16, 2021",,143.09,"$87,572.31",3.0,1,NULL,100
+1090,JENNIFER ALLEN,51.0,Other,jennifer.allen@company.com,unknown,United States of America,42655,2021-06-23,01-07-2024,Toys,158.53,44964.86,1.0,false,Herself move grow end mention.,
+1238,,80.0,,michael@company.com,unknown,south africa,95561,2019/06/01,03-10-2024,Electronics,272.27,56637.48,1.0,N,NULL,
+1485,SARAH BROOKS,16.0,M,sarah.brooks@gmail.com,(725) 178-6376,usa,61250,2021-10-14,2023-09-24,Home & Garden,179.85,68393.45,5.0,No,N/A,150
+1063,haley quinn,,f,haley.quinn@yahoo.com,+1-195-205-8527,France,91647,"June 30, 2022",2020-10-13,Home & Garden,362.83 USD,51286.82,,No,THOUGH FIRM FINANCIAL HUGE SPRING.,150
+1457,lynn yang,10.0,Female,lynn.yang at yahoo.com,(647) 229-8120,S. Africa,,19/01/2020,"July 25, 2020",electronics,70.34,,4.0,Yes,,150
+1070,,51.0,Female,gary@hotmail.com,9229959001,RSA,06459,30 Jul 2023,04/08/2021,Clothing,13.03,75070.66,2.0,true,   ,-
+1002,,21.0,,christine@yahoo.com,(593) 103-4131,USA,50324,07-02-2022,12/07/2021,Books,74.12,67953.77,3.0,no,,-
+1287,,43.0,F,laura@hotmail.com,0443973597,United States,117,29 Jun 2020,"November 27, 2023",electronics,351.73,26397.17,4.0,yes,,100
+1341,STEPHANIE PATEL,49.0,Male,stephanie.patel@yahoo.com,(708) 164-7090,United Kingdom,06879,2022/11/13,"January 20, 2025",Electronics,206.97,81109.58,5.0,false,   ,200.5
+1137,barbara todd,30.0,F,BARBARA.TODD@COMPANY.COM,223-320-6163,,82712,2023-10-30,08-02-2022,clothing ,214.66,98809.11,5.0,false,,150
+1249,david jensen,85.0,Male,,701-082-2078,United States of America,15713,23/05/2024,"April 05, 2018",Books,,40392.67,3.0,true,See attached file!!!,200.5
+1194,zachary gonzalez,-1.0,M,zachary.gonzalez@yahoo.com,1837645208,United States of America,68779,"March 06, 2020","May 12, 2018",Books,89.74,109403.38,5.0,yes,   ,
+1172,LISA MARTIN,89.0,m,lisa.martin@gmail.com,827-229-9275,usa,05798,30 Oct 2021,21/12/2019,Books,324.6,64476.66,4.0,Yes,NULL,100
+1082,MICHELE COLLINS,15.0,Male,michele.collins@yahoo.com,+1-145-933-2727,Germany,98508,"January 11, 2024",15 Nov 2019,,182.72 USD,56835.22,5.0,,THEIR BANK LAND REGION BACK NOR ARTICLE NATURAL.,
+1453,,1.0,m,david@yahoo.com,+1-809-788-7543,usa,75899,2022/03/10,2020/06/16,electronics,323.73,57313.49,5.0,No,SECURITY BREAK DROP RUN THEY GUN.,-
+1318,William Bennett,17.0,Other,william.bennett@company.com,unknown,UK,79316,2020-04-14,,books,43.99,43212.7,3.0,yes,   ,-
+1033,JESSICA RAMIREZ,64.0,F,jessica.ramirez@yahoo.com,967.175.6551,france,21580,25 Sep 2019,2021-02-19,Clothing,54.18,33845.78,2.0,No,FIRE FOLLOW WIFE IDENTIFY.,200.5
+1426,HAROLD MCKINNEY,64.0,Female,harold.mckinney@gmail.com,+1-897-148-0263,UK,869,04/10/2018,2022/12/16,Clothing,363.83 USD,,3.0,yes,,100
+1227,,14.0,f,thomas@gmail.com,577.245.9928,Uk,13992,01-24-2018,"August 23, 2021",ELECTRONICS,29.1,,,0,See attached file!!!,-
+1000,ALLISON HILL,,m,allison.hill@yahoo.com,321-819-6001,,29158,2018-05-03,"March 25, 2020",,435.3,64934.28,3.0,No,N/A,N/A
+1011,jennifer david,43.0,Non-binary,jennifer.david@yahoo.com,939-909-1699,Deutschland,69023,03-01-2023,"April 07, 2018",clothing ,257.16,"$45,685.40",3.0,yes,NULL,
+1237,tonya vega,67.0,F,tonya.vega@hotmail.com,+1-018-569-4544,USA,13382,2019/09/11,10-31-2023,clothing ,160.28,45292.73,4.0,false,   ,150
+1022,ANTONIO WALL,52.0,,,690-967-0546,United States of America,55422,04-24-2024,2022/09/01,home and garden,224.15,56350.56,1.0,no,   ,-
+1104,JUSTIN MULLEN,51.0,,justin.mullen at hotmail.com,+1-362-266-0937,RSA,78122,07-02-2018,2024-04-30,Toys,273.02,25729.7,4.0,1,SON MR HAND CULTURE.,N/A
+1296,thomas patrick,27.0,Non-binary,thomas.patrick@gmail.com,unknown,United Kingdom,28166,2022-12-31,27/04/2023,home and garden,130.0,35369.83,4.0,,N/A,N/A
+1101,,79.0,Female,stephanie@gmail.com,(737) 416-7243,RSA,33620,"November 19, 2019",,Clothing,38.56,,4.0,yes,See attached file!!!,100
+1079,JOSHUA HICKMAN,85.0,f,joshua.hickman@gmail.com,6773454019,Germany,30938,02-08-2019,14/06/2024,,79.62,71438.05,,yes,,100
+1429,kathryn mullen,23.0,Non-binary,KATHRYN.MULLEN@YAHOO.COM,(821) 423-6914,USA,29187,27/01/2024,02 May 2020,Books,234.44,45616.49,2.0,0,   ,100
+1431,Jennifer Campos,26.0,Male,jennifer.campos@company.com,+1-943-985-2989,south africa,38950,2024/11/13,,Electronics,49.52,82077.45,1.0,N,,100
+1018,  Jeffrey Carpenter  ,22.0,F,jeffrey.carpenter@yahoo.com,,South Africa,86314,18 Mar 2022,13/01/2025,,-399.13,36839.52,,,,-
+1176,  Dale Heath  ,44.0,Other,dale.heath at yahoo.com,,S. Africa,,13 Oct 2022,2023/01/01,Toys,43.88,"$70,741.69",4.0,No,ME BROTHER LOT CANDIDATE OWNER STILL TO.,-
+1231,ALAN GRIFFITH,2.0,Male,alan.griffith@company.com,unknown,Deutschland,64293,12-01-2024,N/A,electronics,-349.54,"$68,027.83",5.0,no,N/A,100
+1243,Lydia Howard,3.0,F,lydia.howard@yahoo.com,173.203.0937,,51457,2023/12/26,04-06-2018,Home & Garden,50.06,45561.36,2.0,Y,See attached file!!!,-
+1132,ann fletcher,66.0,F,ann.fletcher@gmail.com,unknown,UK,84269,29 Jul 2019,"August 22, 2019",Books,135.86,36812.25,4.0,Yes,Land enter economic attack either blue.,100
+1039,BRETT SCHULTZ,85.0,Non-binary,brett.schultz@company.com,1724005045,Germany,49632,26 Aug 2024,,clothing ,384.84,58937.22,2.0,true,   ,100
+1464,,26.0,m,,+1-199-529-8006,usa,12330,05-04-2022,2018-08-12,clothing ,52.47,,1.0,Yes,N/A,N/A
+1046,  Carlos King  ,-1.0,f,carlos.king@gmail.com,210-205-3950,UK,23339,04/10/2023,01-22-2023,Home & Garden,-497.29,45787.22,2.0,yes,Appear score moment second live.,150
+1357,connie scott,34.0,F,connie.scott@hotmail.com,(712) 871-5399,United States,08977,2018/06/12,04-16-2018,Books,416.36,67482.4,4.0,false,NULL,-
+1277,ELIJAH MONTES,42.0,,elijah.montes@company.com,+1-371-834-4049,Deutschland,53195,"February 16, 2019",2023/11/01,Books,154.17,40846.61,1.0,false,   ,-
+1362,,-5.0,Other,sierra@yahoo.com,185.962.6301,england,32070,10-24-2019,2018-02-25,books,245.03,41456.77,3.0,No,See attached file!!!,200.5
+1093,MICHAEL SMITH,37.0,m,michael.smith at company.com,8750997700,england,70259,20 Aug 2024,17/02/2024,books,420.59,,3.0,No,   ,100
+1446,Alison Huff,,Female,alison.huff@yahoo.com,+1-449-641-0496,S. Africa,,,2022/08/27,Clothing,8.54,32507.16,2.0,yes,Affect him know difference here process mouth.,100
+1203,  Richard Reyes  ,,f,RICHARD.REYES@COMPANY.COM,+1-480-589-2583,Germany,20580,28/03/2021,24/08/2022,clothing ,434.43,38064.13,,true,NULL,-
+1450,Jonathon Alexander,75.0,Other,jonathon.alexander@gmail.com,(508) 304-4058,United Kingdom,946,,07 Nov 2022,Electronics,479.92,40030.27,3.0,no,   ,150
+1148,,90.0,Other,nathan@company.com,unknown,france,02346,23 Nov 2021,0000-00-00,ELECTRONICS,237.25 USD,85998.69,1.0,true,NULL,
+1220,  Yvonne Gutierrez  ,90.0,f,yvonne.gutierrez@gmail.com,558-303-4414,S. Africa,39859,11-12-2020,11/05/2020,Toys,21.77,36243.5,3.0,true,N/A,100
+1069,Shawn Deleon,18.0,Non-binary,SHAWN.DELEON@YAHOO.COM,9226801824,U.S.,22082,2020-02-20,26/10/2018,Clothing,435.39,,1.0,false,   ,
+1253,lauren bray,6.0,M,lauren.bray@company.com,unknown,france,61287,27 Aug 2019,2018/02/03,books,281.93 USD,97878.88,2.0,No,,200.5
+1398,Adrian Miranda,74.0,Other,adrian.miranda@hotmail.com,(481) 717-5242,U.S.,09435,07-09-2021,01-25-2020,Toys,133.22,55251.85,4.0,Yes,Office government author represent leave.,-
+1167,Mitchell Johnson,37.0,,MITCHELL.JOHNSON@HOTMAIL.COM,(102) 481-9346,germany,51361,2023-01-25,17/02/2024,Books,357.75,59645.07,2.0,No,N/A,N/A
+1275,Jacob Pacheco,80.0,F,JACOB.PACHECO AT YAHOO.COM,905-616-5565,south africa,,0000-00-00,2020-12-25,Clothing,8.59,45315.32,3.0,0,See attached file!!!,100
+1470,angela garcia dds,,Male,angela.garcia.dds@yahoo.com,6202812371,germany,05620,"December 19, 2019",2018-06-23,books,340.38,14215.36,5.0,N,See attached file!!!,-
+1493,  Christine Wolfe  ,33.0,M,christine.wolfe at yahoo.com,,germany,88710,14 Apr 2020,27 Dec 2019,electronics,177.18,65080.93,4.0,Y,,-
+1320,Ana Anderson,82.0,,ana.anderson@yahoo.com,124.938.4308,USA,81039,11-05-2021,2019/10/11,Electronics,261.41,62140.31,,yes,   ,200.5
+1329,CHRISTOPHER ROSE,74.0,m,christopher.rose@gmail.com,+1-961-122-3386,S. Africa,91511,"June 19, 2020",02/12/2019,Electronics,254.1,67207.41,3.0,,N/A,100
+1173,,41.0,Other,mary@yahoo.com,4989266591,U.S.,68221,2021-02-22,2019/11/11,clothing ,160.68 USD,31173.93,4.0,Y,   ,-
+1272,Diana Reeves,83.0,F,diana.reeves@gmail.com,(994) 657-9678,United Kingdom,37055,"November 11, 2020","February 17, 2022",Clothing,22.08,75649.31,3.0,0,WALL AHEAD SCENE STORE MARRIAGE AGO CONDITION PAINTING.,150
+1495,Heather Robinson,1.0,Male,heather.robinson@hotmail.com,9455158886,United States,30005,2020-02-07,2021/01/18,,181.66,39142.54,3.0,false,   ,N/A
+1182,NINA ALI,89.0,F,NINA.ALI@HOTMAIL.COM,779-071-4163,england,89225,"November 16, 2018",N/A,Books,237.27,92935.86,1.0,0,NULL,N/A
+1268,,81.0,Non-binary,brian@yahoo.com,1401401193,Deutschland,775,2018/03/14,2020/08/10,,66.41,"$63,099.63",4.0,Y,   ,
+1352,Paul Lamb,38.0,M,paul.lamb@gmail.com,346-791-2141,United Kingdom,50010,"September 24, 2023",10/11/2021,ELECTRONICS,498.92 USD,-1000,5.0,,See attached file!!!,-
+1117,  Dustin Marquez  ,15.0,F,dustin.marquez at gmail.com,6661889241,RSA,41121,12-21-2024,2020-01-20,home and garden,241.73,"$58,491.56",2.0,No,See attached file!!!,100
+1393,paul gordon,75.0,,paul.gordon@gmail.com,066-784-9843,germany,560,2020-03-19,2024-05-20,Books,101.43,"$52,824.80",5.0,Y,HUNDRED ARGUE HOT STATE WISH.,200.5
+1332,,87.0,f,patrick@company.com,(273) 415-1488,USA,72151,2021/11/07,N/A,Toys,342.06,80553.3,1.0,Y,Skill unit better author.,-
+1455,Alexis Martinez,64.0,f,alexis.martinez@hotmail.com,unknown,usa,35022,2024/08/01,,Books,47.98,56350.37,1.0,false,See attached file!!!,N/A
+1444,,57.0,f,laurie@hotmail.com,3010272405,UK,46332,2021-08-15,19/02/2022,Toys,165.32,69232.3,5.0,Yes,Pretty each factor paper long business baby economic.,N/A
+1356,Laura Vincent,57.0,Male,LAURA.VINCENT@HOTMAIL.COM,8027148727,USA,15663,2023/11/22,04-23-2022,Clothing,142.74,70833.25,4.0,false,   ,N/A
+1086,  Michael Brennan  ,69.0,Non-binary,michael.brennan@company.com,3067383028,south africa,38415,2019/06/19,2018-07-18,electronics,83.2,84557.88,3.0,yes,NULL,150
+1438,BRIAN COLE,-1.0,f,brian.cole@gmail.com,298.334.7743,germany,,12-28-2018,"October 16, 2024",Home & Garden,372.39,45998.69,2.0,no,,100
+1075,Lauren Robles,71.0,Non-binary,lauren.robles at company.com,097.499.3097,U.S.,228,24 Sep 2019,N/A,clothing ,381.87,85760.73,1.0,Yes,N/A,200.5
+1451,Jeffery Campbell,84.0,M,jeffery.campbell@company.com,059.556.5749,USA,04584,2018/12/29,"March 09, 2022",Home & Garden,176.66,86023.04,4.0,,See attached file!!!,150
+1015,,65.0,Non-binary,francisco@company.com,2602563421,england,50641,2021/02/09,16/03/2021,ELECTRONICS,194.6,43754.25,1.0,no,See attached file!!!,200.5
+1210,JOSEPH BALL,59.0,m,joseph.ball@company.com,+1-252-056-6474,United Kingdom,20418,N/A,"July 07, 2023",electronics,200.43,62706.35,3.0,no,,-
+1180,miss kelly dawson,8.0,f,miss.kelly.dawson at gmail.com,902-770-3843,South Africa,04906,21 Aug 2020,17 Apr 2022,Books,279.93,63255.62,2.0,yes,Member recognize past purpose growth pretty wish beautiful.,200.5
+1397,anna higgins,62.0,,anna.higgins@gmail.com,322.889.8572,Deutschland,44937,2024/10/21,2021/02/04,ELECTRONICS,41.62,59481.85,5.0,no,N/A,200.5
+1019,TREVOR YOUNG,63.0,F,trevor.young@hotmail.com,+1-433-200-3791,UK,60193,2021/01/11,"November 20, 2022",electronics,228.15,26753.93,3.0,yes,THROUGHOUT TEAM THOSE.,
+1381,Paul Cruz,82.0,M,paul.cruz@hotmail.com,(669) 432-0293,U.S.,78110,"June 01, 2019",15 Nov 2021,books,-25.12,84507.12,1.0,true,N/A,N/A
+1340,  Michael Marshall  ,75.0,f,MICHAEL.MARSHALL AT COMPANY.COM,(711) 837-2742,usa,22860,"August 08, 2023",2020-08-27,home and garden,-35.65,71270.19,1.0,yes,,
+1056,Lisa Cox,13.0,M,lisa.cox@company.com,(466) 590-5151,south africa,73634,04/07/2021,08-05-2023,Books,111.5,75619.99,4.0,Y,Exist rich prevent trade their four.,200.5
+1278,elizabeth brock,85.0,F,elizabeth.brock@gmail.com,6853664987,england,88523,"May 05, 2023",2023-07-09,,302.34,63876.39,5.0,true,   ,100
+1467,Rebecca Lee,48.0,Male,rebecca.lee@company.com,9456804473,S. Africa,13566,05/04/2021,26/04/2024,Electronics,175.87,76168.49,,Y,,150
+1044,Stephen Taylor,11.0,m,stephen.taylor@hotmail.com,758.692.6179,France,539,2022/10/01,05-27-2020,ELECTRONICS,151.42,25429.56,3.0,0,,150
+1154,  Amy Dunlap  ,85.0,Other,amy.dunlap@yahoo.com,unknown,South Africa,21393,2021-08-12,16/06/2019,electronics,,81142.86,5.0,0,NULL,N/A
+1025,LAURA ODONNELL,53.0,f,laura.odonnell@gmail.com,6631931491,S. Africa,74678,2024-03-03,N/A,books,31.83,57218.45,,Y,,200.5
+1265,  Dylan Moreno  ,18.0,f,DYLAN.MORENO@COMPANY.COM,(183) 219-2855,germany,90281,N/A,16/02/2019,electronics,10.55,45501.09,5.0,no,ACTUALLY MILLION HEALTH MACHINE.,200.5
+1042,JOSHUA MATA,81.0,m,JOSHUA.MATA@GMAIL.COM,884-247-4517,USA,10370,2021-03-21,2024/08/30,Electronics,405.86,52687.03,,No,,100
+1312,AMY HUDSON,51.0,Non-binary,amy.hudson at hotmail.com,(378) 018-2043,Deutschland,32651,2023-02-05,05-24-2020,Electronics,183.94,,4.0,Y,NULL,N/A
+1412,  Bradley Holt  ,63.0,Other,bradley.holt@company.com,244-731-5847,usa,98175,2019/02/08,"July 04, 2024",Electronics,395.13,38205.56,4.0,,Job watch two economic cup suffer response.,
+1456,  James Hawkins  ,61.0,M,james.hawkins@company.com,,United States of America,93822,2018/04/26,03 May 2024,clothing ,350.62,96214.96,3.0,true,N/A,
+1284,Lance Li,3.0,Non-binary,lance.li at company.com,570.027.2063,usa,82853,"April 29, 2020",2020-01-08,ELECTRONICS,328.06 USD,49948.64,,No,NULL,100
+1126,AUSTIN ORR,28.0,f,austin.orr@hotmail.com,unknown,United States,58622,18 Nov 2021,2020-09-25,electronics,272.42,54305.76,4.0,false,Begin suggest speak business.,200.5
+1334,KEVIN TRAN,39.0,m,kevin.tran@company.com,775.153.6637,United Kingdom,59479,2022/09/02,17 Jan 2025,home and garden,265.65,65941.95,4.0,true,See attached file!!!,
+1031,christopher jones,80.0,m,christopher.jones@yahoo.com,0679740344,germany,,"February 03, 2022",29/08/2022,Home & Garden,457.18,92045.56,3.0,No,NAME POSITIVE TRAINING STEP.,
+1113,  Steven Martin  ,1.0,,steven.martin@yahoo.com,643-611-0371,United States of America,17894,07 Feb 2025,0000-00-00,Home & Garden,267.86 USD,,2.0,N,NULL,100
+1255,SHELBY WARNER,72.0,F,shelby.warner@company.com,355-486-4015,United States,45750,09/03/2021,N/A,clothing ,15.39,"$14,497.15",3.0,false,   ,100
+1218,KENT HUYNH,11.0,f,kent.huynh@gmail.com,145.561.6814,U.S.,62211,30/07/2019,"November 08, 2023",clothing ,49.67,76076.04,2.0,true,   ,200.5
+1416,RICHARD JOHNSTON,62.0,,richard.johnston@yahoo.com,074.260.8805,,85013,"May 05, 2022",15 Dec 2020,Home & Garden,43.14,39817.35,5.0,yes,N/A,100
+1057,MARIA MURPHY,34.0,f,MARIA.MURPHY AT HOTMAIL.COM,2816850542,france,28575,2022/05/02,"December 27, 2024",Home & Garden,172.85,73625.6,1.0,Yes,,100
+1396,Douglas Sanders,73.0,Non-binary,douglas.sanders@gmail.com,3565215681,United States of America,66322,2021-01-28,N/A,home and garden,166.21,46975.59,1.0,No,   ,-
+1024,Rachael Pearson,89.0,m,rachael.pearson@hotmail.com,033-092-3271,Germany,74421,,"July 26, 2020",Toys,290.24,44112.35,5.0,true,SING CLEARLY FIND OFFICIAL.,N/A
+1017,teresa mclaughlin,24.0,M,teresa.mclaughlin@hotmail.com,+1-356-159-5148,Uk,41039,09-23-2022,08-02-2018,Electronics,-475.06,"$61,284.95",5.0,no,PAST FEELING NATURE A.,150
+1192,melissa nelson,67.0,,MELISSA.NELSON@YAHOO.COM,+1-846-312-2417,U.S.,81468,05-18-2021,2023-12-12,books,386.31,84070.68,4.0,false,,
+1066,,9.0,,,(556) 909-2755,Germany,58689,16 Apr 2022,18/01/2024,books,68.04,71250.52,5.0,true,See attached file!!!,N/A
+1286,,71.0,m,CHRISTOPHER@YAHOO.COM,+1-529-108-6771,United States of America,29924,"October 17, 2018","February 29, 2020",,411.68,87648.23,3.0,No,N/A,-
+1422,DEREK MCINTOSH,62.0,F,derek.mcintosh@gmail.com,unknown,france,11519,"February 16, 2024",03-22-2020,electronics,248.16,43461.93,3.0,,Issue character maybe meet apply evening.,N/A
+1000,,54.0,,RANDY@YAHOO.COM,unknown,Germany,49397,06 Mar 2022,"July 01, 2019",home and garden,69.7,61575.02,3.0,N,BEHAVIOR HERE NEED.,100
+1311,,41.0,f,michelle@company.com,519.966.3658,USA,06506,"August 22, 2018",2019-09-26,electronics,437.71,51964.3,1.0,No,,N/A
+1368,  James Novak  ,52.0,m,james.novak at yahoo.com,6112849718,UK,46232,24/02/2019,2021/09/14,,239.34,"$43,725.51",2.0,yes,,-
+1023,  Susan Vargas  ,21.0,Female,susan.vargas@gmail.com,+1-016-272-0465,South Africa,,"March 26, 2021",08-14-2020,Clothing,274.56,"$26,505.04",3.0,0,NULL,200.5
+1271,charles morales,62.0,M,charles.morales@company.com,unknown,france,77906,12-21-2019,2024/04/21,Clothing,98.86 USD,97443.12,4.0,true,,N/A
+1299,Mr. Kevin Carr,38.0,f,mr..kevin.carr@gmail.com,(730) 806-9581,Uk,35608,"January 11, 2024","March 12, 2019",Toys,277.68,58981.19,4.0,yes,EXPLAIN COURT GAS DISCUSSION.,200.5
+1373,john moore,24.0,f,john.moore@gmail.com,4376545628,germany,358,10-07-2020,"February 22, 2020",clothing ,74.51,45579.23,3.0,Y,ACCEPT THIRD REMEMBER BOOK EXPECT CARD.,150
+1005,melanie wilson,89.0,Female,melanie.wilson@company.com,unknown,germany,70882,2020-07-09,2020-06-21,Electronics,40.07,"$50,317.26",5.0,0,WILL SEVEN MEDICAL BLOOD PERSONAL.,
+1116,  Brian Porter MD  ,38.0,Male,,(805) 526-9658,Deutschland,90015,2018-01-12,17/07/2023,electronics,323.95,"$92,723.72",1.0,Y,,
+1045,,21.0,Male,STACY@YAHOO.COM,713.900.5329,england,27397,11-05-2024,09-06-2020,Clothing,473.83,40603.12,2.0,no,,200.5
+1185,,6.0,F,craig@hotmail.com,5942843479,south africa,45471,02-07-2019,"September 17, 2020",Toys,94.06,"$37,209.71",,No,CONFERENCE CAPITAL OFFICE DIRECTION BETWEEN ESTABLISH DOG.,100
+1016,Raymond Bell,75.0,M,raymond.bell@company.com,+1-868-501-4294,Germany,05515,2024/02/15,2023-06-13,ELECTRONICS,460.17,34743.38,1.0,,See attached file!!!,150
+1477,Andrew Dominguez,61.0,M,andrew.dominguez@hotmail.com,+1-440-907-9772,S. Africa,62556,19 Jul 2022,11-07-2019,electronics,45.74,20932.35,2.0,Yes,Space although ahead thus check save that.,
+1367,Cheryl Watson,43.0,Male,cheryl.watson at company.com,892-625-6609,United States,32941,08/02/2020,2018/09/08,books,175.75 USD,63258.63,4.0,0,NULL,150
+1003,,7.0,F,angela@yahoo.com,,S. Africa,90234,2023/04/02,"April 15, 2019",Home & Garden,220.21,85460.6,2.0,1,N/A,N/A
+1234,Lori Mitchell,21.0,Female,lori.mitchell@gmail.com,unknown,Deutschland,11315,31 Aug 2022,03-16-2018,books,,0,-1.0,No,   ,200.5
+1384,John Blair,64.0,Female,john.blair@yahoo.com,,,85378,30 Jan 2025,12-10-2023,Books,,51801.23,4.0,true,Again clear concern hour part.,150
+1060,,88.0,m,cassandra@yahoo.com,4075818141,South Africa,21513,06-26-2023,01-25-2021,home and garden,477.53,61625.27,4.0,,NULL,N/A
+1110,BETH CLINE,85.0,f,beth.cline@hotmail.com,,Uk,33226,02-08-2021,11/02/2020,,-163.19,46587.09,4.0,true,Represent stock seven put.,N/A
+1409,,61.0,,ashley at hotmail.com,0275233438,United Kingdom,32646,2024/11/16,12 Aug 2019,Clothing,83.92,58666.84,3.0,yes,See attached file!!!,-
+1420,,-5.0,f,teresa@gmail.com,,S. Africa,08400,2024/05/15,18 Dec 2024,Toys,301.86,92523.42,2.0,false,Actually democratic stand could bit.,100
+1029,veronica wall,56.0,F,veronica.wall@gmail.com,435-240-8240,south africa,07647,04-16-2021,"May 07, 2024",home and garden,124.21,49166.13,1.0,false,NULL,N/A
+1274,justin dalton,51.0,m,,+1-427-624-6719,United States,889,2022/09/08,12-24-2019,books,228.08,,2.0,Y,See attached file!!!,N/A
+1302,,66.0,Non-binary,michele at yahoo.com,180.812.1352,South Africa,95967,"April 25, 2022",2019-11-26,electronics,63.58,47293.73,5.0,N,,150
+1026,  Christian Thompson  ,90.0,,christian.thompson@yahoo.com,,Germany,688,10 Apr 2019,2021/04/10,Books,277.88,31980.13,3.0,true,,200.5
+1007,carmen rose,62.0,Female,CARMEN.ROSE@GMAIL.COM,+1-963-834-6578,South Africa,59678,"March 26, 2024",2018/08/28,Electronics,253.91,"$70,348.69",5.0,No,   ,
+1181,ANDREA DAVIS,19.0,,andrea.davis at yahoo.com,+1-489-554-3937,Germany,53448,2023/02/05,N/A,Books,122.19,71441.2,5.0,false,,-
+1143,,29.0,Male,,+1-903-494-4665,france,,23 Nov 2021,0000-00-00,Toys,292.6,23986.73,4.0,0,,100
+1108,,9.0,m,andrea@company.com,191-485-8078,UK,29145,2020-04-02,03-26-2020,electronics,124.76,50308.26,3.0,yes,NULL,200.5
+1037,JOHN COOK,13.0,f,john.cook@gmail.com,867-533-9636,Germany,06221,"September 29, 2022",2019/03/01,electronics,280.35,15806.6,5.0,0,Seat relate specific history professional star.,-
+1157,  Bryan Jimenez  ,73.0,Other,bryan.jimenez@hotmail.com,016-608-8019,USA,81643,2024-09-06,15/05/2021,clothing ,258.08,58692.68,3.0,N,   ,100
+1481,  Melissa Jackson  ,42.0,Non-binary,melissa.jackson at yahoo.com,+1-962-893-6543,U.S.,45351,,29/07/2019,Clothing,211.85,54346.11,1.0,No,MILITARY PIECE LITTLE LEVEL.,-
+1118,,73.0,,sandy@company.com,179.904.2102,United States of America,92447,2023-06-23,2021-07-11,,115.87,60151.01,4.0,,   ,
+1114,edwin reyes,65.0,m,edwin.reyes@gmail.com,unknown,France,99218,07-03-2019,,Clothing,69.95,51774.29,1.0,true,NULL,100
+1266,THOMAS GARCIA,67.0,F,thomas.garcia@hotmail.com,,S. Africa,20758,0000-00-00,2018-04-25,Clothing,52.82,"$41,933.42",3.0,N,   ,
+1175,  Amy Scott  ,6.0,F,amy.scott at hotmail.com,(286) 990-4137,south africa,79999,03-19-2021,21/01/2021,books,107.26,35506.37,2.0,yes,N/A,150
+1421,,,Other,daniel@gmail.com,2356798363,UK,09497,2019-11-17,13 Oct 2021,Books,336.01 USD,"$74,008.48",4.0,no,See attached file!!!,150
+1349,thomas bowen,60.0,Female,thomas.bowen@gmail.com,(875) 066-3370,france,47872,,01-28-2021,,,66903.14,2.0,false,WEIGHT SUCCESS ACTIVITY SIDE POPULAR TRUE HUGE ONLY.,
+1144,  Frederick Hill  ,55.0,Female,frederick.hill@hotmail.com,unknown,United States of America,86499,2020-07-25,10/04/2022,Electronics,252.3,56371.26,3.0,Y,Could military drive arm tax.,200.5
+1380,ALISON GREENE,55.0,Other,alison.greene@gmail.com,unknown,Uk,91819,"November 22, 2024",2018-06-13,,129.9,61218.15,3.0,true,Face what article win.,200.5
+1391,Joe Conley,63.0,Male,joe.conley@company.com,,U.S.,72787,20/06/2021,"May 05, 2019",Toys,420.79,65386.93,1.0,true,N/A,200.5
+1211,julie banks,52.0,F,julie.banks@company.com,unknown,,24615,06-28-2022,2023/06/08,clothing ,-119.26,37322.85,1.0,yes,See attached file!!!,
+1000,BRYAN HOLMES,17.0,m,bryan.holmes@yahoo.com,7580304687,germany,41951,24 Jul 2023,10/12/2019,home and garden,397.61,41141.81,4.0,true,NULL,200.5
+1494,Christopher Richards,18.0,M,christopher.richards@company.com,959.660.4873,United States of America,49690,2022/02/27,N/A,,58.02,44394.85,5.0,0,,N/A
+1254,melissa salazar,89.0,,melissa.salazar@hotmail.com,9319508501,Germany,50695,06 Mar 2019,"January 16, 2018",Clothing,385.33,67678.38,1.0,N,Let American hand possible relate night.,100
+1141,,32.0,f,lori@company.com,+1-821-486-2890,usa,23273,"April 17, 2022",0000-00-00,clothing ,51.04,-1000,3.0,no,NULL,200.5
+1376,,87.0,Non-binary,dakota@yahoo.com,+1-892-392-3126,Germany,05529,23 Jun 2024,2021/05/16,,69.3,26038.31,3.0,false,See attached file!!!,-
+1067,reginald padilla,45.0,Male,reginald.padilla at gmail.com,394-731-2172,england,94003,,"September 14, 2024",home and garden,272.18,82124.8,5.0,N,,200.5
+1408,beth wilson,26.0,f,beth.wilson@yahoo.com,,france,76120,"August 01, 2020","February 15, 2019",ELECTRONICS,477.79,,4.0,Y,See attached file!!!,150
+1168,JANE SHORT,82.0,f,jane.short@company.com,(072) 832-6842,S. Africa,39567,29/06/2018,07/09/2019,home and garden,366.43,60861.45,1.0,0,NULL,150
+1340,  Michael Marshall  ,75.0,f,MICHAEL.MARSHALL AT COMPANY.COM,(711) 837-2742,usa,22860,"August 08, 2023",2020-08-27,home and garden,-35.65,71270.19,1.0,yes,,100
+1433,Mr. Brian Smith,24.0,,mr..brian.smith@company.com,918-133-1708,RSA,586,2019/07/07,"March 18, 2020",electronics,491.87,79756.33,3.0,no,NULL,100
+1228,MICHAEL REYNOLDS,23.0,Female,michael.reynolds at company.com,+1-695-832-1971,South Africa,78117,2019-09-24,"June 24, 2021",Home & Garden,247.36,74080.04,3.0,0,,N/A
+1193,adrian robinson,6.0,M,adrian.robinson@hotmail.com,+1-647-570-5120,USA,35432,2018/08/03,2019-04-21,Home & Garden,374.81,49706.86,4.0,no,See attached file!!!,100
+1081,,1.0,Female,ronald@gmail.com,5161227530,south africa,34682,04-12-2019,2021/07/07,Home & Garden,310.59,49019.85,,yes,,100
+1109,MELISSA CALLAHAN,50.0,M,melissa.callahan@yahoo.com,9629233095,Germany,70268,06 Feb 2018,04/02/2018,Toys,448.26,26692.59,5.0,true,N/A,
+1428,kelly roberts,,M,kelly.roberts@company.com,824.741.4070,USA,28986,2018-10-30,05-01-2022,Clothing,308.24,78588.8,5.0,N,   ,N/A
+1145,Lauren Cooley,21.0,M,lauren.cooley@hotmail.com,3538758428,Uk,24242,0000-00-00,05-12-2019,,271.53,33753.93,4.0,No,See attached file!!!,200.5
+1092,roberto levy,14.0,F,roberto.levy at gmail.com,+1-772-522-8728,RSA,84624,07/09/2019,14/09/2022,clothing ,287.91,,5.0,Yes,See attached file!!!,100
+1152,PENNY JONES,36.0,F,PENNY.JONES AT YAHOO.COM,+1-143-744-7012,United States of America,05671,02/01/2019,2025-01-04,electronics,120.17,30382.71,2.0,Yes,See attached file!!!,200.5
+1479,paul massey,150.0,Male,paul.massey@gmail.com,+1-044-851-5791,south africa,74712,21 Apr 2023,01 Jul 2022,clothing ,109.22,,,No,,200.5
+1000,  Bruce Moreno  ,57.0,M,bruce.moreno@gmail.com,(195) 883-7340,U.S.,25892,01-04-2025,2022-01-26,Clothing,,68591.95,11.0,0,CIVIL TWO APPROACH HAIR.,-
+1083,Laura Hernandez,54.0,,laura.hernandez@gmail.com,587-139-7187,Uk,07793,28/03/2021,2023/07/22,books,-186.6,15248.62,1.0,,   ,100
+1103,,21.0,M,marie@yahoo.com,254.573.8757,france,13296,02-27-2021,N/A,electronics,332.7,,3.0,No,POSSIBLE QUALITY CLEARLY WORKER DURING COMPANY.,N/A
+1165,kerry barajas,14.0,Male,kerry.barajas@hotmail.com,(015) 739-9305,United States,50488,07/05/2023,12/03/2022,Clothing,207.25,61928.96,2.0,no,N/A,-
+1163,EMILY ARNOLD,68.0,m,EMILY.ARNOLD@COMPANY.COM,0439735989,South Africa,26252,08-16-2023,2018/05/01,home and garden,48.46,60939.69,2.0,0,,-
+1199,Daniel Stone,37.0,F,daniel.stone@hotmail.com,(138) 633-8392,France,73694,04-03-2018,04-26-2023,Clothing,436.54,50530.74,3.0,false,SOCIETY NEARLY MEASURE PRICE.,N/A
+1245,eric leon,3.0,m,eric.leon@gmail.com,7929111799,,29411,"December 10, 2018",23/01/2024,books,5.5,56285.6,,false,NULL,-
+1074,BRENDA VELAZQUEZ,76.0,Male,brenda.velazquez@company.com,unknown,S. Africa,42251,01-24-2024,2018/11/18,Clothing,173.59,62227.91,,Y,STOCK MOTHER REMEMBER FEEL STAFF HAPPY PURPOSE.,150
+1316,ANDREA DAVIS,79.0,Non-binary,andrea.davis@gmail.com,128.463.9855,South Africa,83753,17/05/2020,2023-04-08,Toys,371.87 USD,50837.55,3.0,Y,See attached file!!!,200.5
+1229,Rhonda Sherman,12.0,M,rhonda.sherman@company.com,+1-278-469-9733,France,89828,2023-11-20,05-11-2023,Clothing,151.26 USD,-1000,5.0,true,See attached file!!!,
+1484,,37.0,F,alexandria@company.com,(922) 501-4257,United States,52404,11-23-2018,"June 16, 2019",clothing ,453.45,28910.61,5.0,1,N/A,
+1119,Alyssa Roman,87.0,Non-binary,alyssa.roman at gmail.com,+1-481-491-7785,Deutschland,07767,03 Nov 2018,08/09/2023,electronics,401.62,"$53,511.08",1.0,No,See attached file!!!,150
+1386,michael harris,64.0,,michael.harris@company.com,797-245-7230,france,71742,"March 16, 2023",09 Sep 2022,ELECTRONICS,254.16 USD,34949.41,,0,   ,200.5
+1442,,32.0,,stacey@gmail.com,(401) 078-3567,south africa,402,04 Jul 2023,2020-12-25,clothing ,185.07,"$57,405.91",5.0,false,,150
+1261,,,M,alexander@yahoo.com,unknown,,45710,11/04/2022,2023-04-29,clothing ,-56.64,65099.75,1.0,true,NULL,
+1364,michael long,72.0,m,michael.long@yahoo.com,8871898131,france,24181,N/A,08 Aug 2020,Home & Garden,316.81 USD,52058.85,5.0,no,N/A,-
+1411,Wendy Webb,89.0,,WENDY.WEBB@YAHOO.COM,unknown,RSA,80979,"July 19, 2023","February 21, 2021",Home & Garden,418.97,38834.03,4.0,no,See attached file!!!,150
+1335,Alexander Floyd,,Other,,225-999-9663,United States of America,51702,23/05/2021,05-05-2024,Toys,,50956.15,1.0,No,Move could board notice.,200.5
+1262,kevin miller,85.0,Other,,,France,,31 Aug 2021,10 Sep 2022,Clothing,106.81,72315.1,5.0,no,SERIES BECAUSE IMPORTANT TRIAL INCREASE NEW REPORT SENSE.,-
+1480,DANIELLE HOOD,17.0,Male,danielle.hood@hotmail.com,324.064.2429,Deutschland,41859,"May 18, 2019","May 24, 2021",ELECTRONICS,175.82 USD,62681.31,4.0,false,See attached file!!!,100
+1418,COURTNEY MILLER,63.0,Non-binary,courtney.miller@yahoo.com,unknown,South Africa,95411,2024/05/23,07-31-2024,Home & Garden,388.44 USD,0,2.0,no,,
+1394,angela schwartz,62.0,Other,angela.schwartz@hotmail.com,756.620.5634,france,14709,07 Jan 2025,01-27-2018,ELECTRONICS,218.85,63034.23,2.0,no,N/A,N/A
+1280,  Taylor Harris  ,38.0,Female,taylor.harris@company.com,420.448.2070,USA,07752,2021/06/19,08 Jun 2024,home and garden,406.05,36461.39,1.0,yes,PUBLIC THOUGH HOWEVER STYLE SUCCESSFUL DOOR.,150
+1036,  Connor Greene  ,75.0,Other,connor.greene@company.com,unknown,Germany,983,"April 14, 2019",30 May 2020,Books,366.16,59177.27,4.0,No,N/A,150
+1196,Heather Taylor,90.0,F,heather.taylor at yahoo.com,+1-077-848-7392,United Kingdom,71754,26/04/2021,02/06/2021,Electronics,234.56,37856.85,1.0,,N/A,-
+1139,  Luke Becker  ,5.0,Non-binary,luke.becker@company.com,unknown,USA,53155,N/A,10-24-2023,Clothing,338.64,"$43,674.05",4.0,N,See attached file!!!,100
+1375,Jasmine Rodriguez,76.0,f,jasmine.rodriguez@company.com,102-258-0305,RSA,56818,02/02/2018,15/02/2019,ELECTRONICS,222.31,59641.0,2.0,Y,,150
+1493,  Christine Wolfe  ,33.0,M,christine.wolfe at yahoo.com,,germany,88710,14 Apr 2020,27 Dec 2019,electronics,177.18,65080.93,4.0,Y,,-
+1291,samantha elliott,83.0,Other,samantha.elliott@gmail.com,939-089-2613,RSA,,03-01-2023,02 Feb 2020,electronics,449.76,,3.0,no,STUDENT CHILD BALL STORE.,
+1020,colleen brock,34.0,f,colleen.brock@hotmail.com,(870) 831-7278,Germany,73760,"September 11, 2020",2018-03-12,Toys,239.26,84312.98,3.0,Y,NULL,200.5
+1059,DUSTIN GOODMAN,22.0,Other,dustin.goodman@company.com,,usa,59342,12-12-2022,2023/08/18,Electronics,261.75,48815.75,4.0,1,,-
+1472,  Kimberly Rivera  ,60.0,,kimberly.rivera@yahoo.com,,United States of America,08510,02-19-2019,2022-11-11,Books,,69350.85,,N,   ,N/A
+1111,,74.0,Female,natalie@yahoo.com,775.901.7518,RSA,52630,"November 28, 2019","June 09, 2019",ELECTRONICS,450.3,48145.71,3.0,N,NULL,-
+1089,MISTY HANSEN,85.0,m,misty.hansen@yahoo.com,,england,63336,07/04/2019,02-19-2018,,275.45,"$38,830.13",1.0,Y,   ,150
+1417,,69.0,f,shawn@yahoo.com,unknown,england,84530,2024-06-10,,Books,33.49,58007.88,,Y,NULL,200.5
+1006,katie gonzalez,53.0,Female,katie.gonzalez@company.com,528-809-5701,usa,480,2021-10-21,25/09/2022,Books,428.7 USD,86584.26,,No,   ,200.5
+1371,  Michele Brady  ,8.0,M,michele.brady@company.com,+1-389-097-2832,france,10347,,"September 20, 2019",home and garden,64.12,59899.33,2.0,,Style message weight institution here health.,-
+1354,Allison Martinez,86.0,Male,allison.martinez@hotmail.com,unknown,United States of America,70051,0000-00-00,10 May 2019,electronics,21.87,"$30,716.23",4.0,true,,-
+1346,  Catherine Soto  ,32.0,m,catherine.soto@company.com,1713023212,france,78178,02/01/2022,03-08-2024,Home & Garden,254.21 USD,61483.33,3.0,No,   ,-
+1158,lindsay moran,39.0,F,lindsay.moran@yahoo.com,(571) 130-5548,Deutschland,68918,2024-06-18,18 Jun 2024,Home & Garden,219.98,60197.66,1.0,,See attached file!!!,-
+1150,  Linda Williams  ,,M,linda.williams@gmail.com,100.167.6184,germany,62681,2020-08-11,30 Jun 2021,Home & Garden,376.53,48558.77,3.0,true,Day rate act inside.,N/A
+1392,  Kirk Moore  ,35.0,Other,KIRK.MOORE@GMAIL.COM,(252) 131-0962,england,24411,"January 19, 2020",,,142.35,85654.78,3.0,Yes,   ,
+1038,,89.0,m,,8702621745,south africa,82192,14/01/2020,2025-02-06,Books,188.18,"$28,436.28",,yes,Power system system teacher here first.,N/A
+1322,  Sylvia Gonzalez  ,78.0,Non-binary,sylvia.gonzalez@hotmail.com,,UK,43653,09-26-2023,12-13-2023,home and garden,182.08 USD,72992.0,1.0,Yes,,150
+1198,  Sara Barrett  ,15.0,,sara.barrett@yahoo.com,8994053910,France,27860,2021-02-09,2023-11-28,clothing ,187.23,64649.45,4.0,No,N/A,100
+1449,Mark Hawkins,73.0,Male,mark.hawkins@hotmail.com,6091498517,U.S.,24068,04-02-2018,12 Dec 2020,Clothing,320.17,61646.28,1.0,No,   ,150
+1146,,81.0,Male,olivia@hotmail.com,549-471-7099,U.S.,81851,07-23-2020,06-08-2022,,227.89,64471.85,1.0,no,,
+1404,Harold Daniels,34.0,f,,,United States,69073,"May 21, 2018",2022/03/25,Home & Garden,50.6,74185.42,5.0,false,,-
+1147,Judith Stewart,9.0,,judith.stewart@gmail.com,217-525-0074,Uk,27945,"December 12, 2018",09 Mar 2021,Electronics,,36611.52,4.0,1,NULL,150
+1314,PAUL CRUZ JR.,75.0,Male,paul.cruz.jr. at hotmail.com,+1-057-861-7063,south africa,02941,N/A,20/01/2023,Electronics,489.62,60619.84,2.0,,Never only big several prepare.,N/A
+1489,  Darlene Rogers  ,34.0,f,darlene.rogers@gmail.com,(408) 424-5607,USA,43051,2024/03/03,"June 22, 2024",electronics,377.39 USD,33815.73,3.0,Yes,,-
+1123,BRENDAN ANDERSON,72.0,,brendan.anderson@company.com,+1-619-906-2344,United States,41789,14 Apr 2018,10-22-2019,clothing ,272.88,104264.84,2.0,,See attached file!!!,-
+1402,paul martin,16.0,,paul.martin@hotmail.com,567-782-6596,France,01802,0000-00-00,17 Sep 2022,clothing ,219.9,"$64,959.97",4.0,false,Situation others back property pattern food worry.,200.5
+1096,CHARLES HOOVER,58.0,Other,charles.hoover at yahoo.com,614-293-9685,United States,508,29/06/2020,2018/12/11,electronics,324.76,65265.35,4.0,Yes,,
+1143,,29.0,Male,,+1-903-494-4665,france,,23 Nov 2021,0000-00-00,Toys,292.6,23986.73,4.0,0,,150
+1239,,7.0,F,ashlee@gmail.com,unknown,,24718,"January 15, 2025","March 11, 2021",home and garden,127.58,101293.17,,true,See attached file!!!,100
+1406,james gonzalez,48.0,Male,james.gonzalez@gmail.com,(715) 766-0538,UK,,2025-02-12,2018/02/17,,496.39,39653.05,5.0,N,,N/A
+1097,,51.0,,,(477) 358-6629,RSA,87096,02-06-2020,2024/12/11,books,48.42,56941.55,5.0,Yes,See attached file!!!,N/A
+1360,,62.0,m,brian@gmail.com,+1-523-302-7642,germany,03327,2022-10-07,"November 24, 2021",Books,345.17 USD,37054.91,4.0,Yes,,100
+1122,,17.0,F,heather@hotmail.com,050.641.3836,england,64992,11-05-2021,09-30-2023,books,104.44,56204.6,2.0,1,,
+1183,,81.0,,patricia@gmail.com,423-733-3433,South Africa,27078,2019/06/04,11-27-2024,,297.93,50092.24,4.0,yes,Student green single build bad.,100
+1202,  Michele Weiss  ,,Female,michele.weiss@gmail.com,unknown,england,13000,,15 Jan 2024,home and garden,162.29,53543.42,4.0,N,See attached file!!!,
+1246,,88.0,Non-binary,david@yahoo.com,,france,19013,2021-05-16,03-29-2024,Home & Garden,472.98,33445.1,3.0,N,   ,N/A
+1482,,19.0,f,rachel@hotmail.com,unknown,United Kingdom,42754,11 Jun 2018,N/A,,396.96,13651.16,2.0,N,   ,-
+1305,  Lori Montgomery  ,18.0,m,lori.montgomery@company.com,,United States of America,58453,10 Aug 2019,"August 10, 2018",,19.94,5000000,4.0,yes,,
+1361,  Lauren Trujillo  ,53.0,Non-binary,lauren.trujillo@company.com,472.927.7423,england,29092,07-06-2018,05/01/2024,,304.46 USD,56516.09,,N,,150
+1307,,-1.0,Male,debra@gmail.com,174.907.5399,S. Africa,94171,2019-11-07,2019-03-21,Electronics,85.57,,2.0,1,   ,N/A
+1407,kelly figueroa,63.0,Other,kelly.figueroa@gmail.com,552-963-8639,RSA,84968,2018/04/15,2019-04-01,clothing ,278.88,72446.41,5.0,no,,N/A
+1290,zachary ho,85.0,Other,zachary.ho@gmail.com,unknown,england,05847,12/02/2022,02/04/2022,Clothing,426.13,57614.81,,,See attached file!!!,N/A
+1125,Anna Garcia,,m,anna.garcia@yahoo.com,,germany,18823,2019-09-27,2025/01/05,books,393.1,"$61,030.95",4.0,1,See attached file!!!,100
+1310,Dr. Charles Lawrence,41.0,Male,dr..charles.lawrence at yahoo.com,044-327-0185,UK,09356,03-03-2023,"December 16, 2022",Books,,15958.24,2.0,false,,150
+1223,andrew harris,35.0,m,andrew.harris@company.com,1780782357,United Kingdom,96503,,08/12/2020,Toys,47.44,65300.95,4.0,true,NULL,
+1440,MR. JOSHUA JOHNSON PHD,,,mr..joshua.johnson.phd@hotmail.com,unknown,Uk,38498,2023/06/16,17 Oct 2019,electronics,354.48,33647.59,4.0,Yes,NULL,150
+1219,mrs. melissa peck,28.0,m,MRS..MELISSA.PECK@HOTMAIL.COM,469.548.9952,usa,81017,02 Oct 2022,08-17-2019,Toys,304.88,27446.61,2.0,Y,See attached file!!!,-
+1129,,82.0,Male,WENDY@HOTMAIL.COM,(396) 522-3955,usa,,2024/06/03,"May 10, 2020",Toys,75.52,"$77,856.46",5.0,Yes,MY COMPARE ALSO ARGUE OWN AFTER LONG.,-
+1432,,58.0,,valerie@yahoo.com,(159) 149-7501,UK,97556,2023/12/21,"February 25, 2021",ELECTRONICS,53.05 USD,52709.2,1.0,0,,N/A
+1490,HALEY ELLIS,76.0,M,haley.ellis at company.com,938-970-1550,Uk,19735,17/04/2024,0000-00-00,Clothing,67.7,53746.42,5.0,Y,   ,N/A
+1336,  Cristian Pruitt  ,84.0,F,cristian.pruitt@gmail.com,643-348-1705,usa,68465,"September 24, 2023","April 21, 2024",Toys,153.94,,2.0,No,N/A,200.5
+1388,lindsey thompson,9.0,M,lindsey.thompson@company.com,859-262-4945,Germany,14122,2024-01-10,08 Apr 2018,home and garden,363.95 USD,49226.83,4.0,true,N/A,-
+1297,Tracy Guzman,-1.0,Other,tracy.guzman@gmail.com,7499564122,USA,02319,"September 07, 2018",2023/12/21,home and garden,198.17,,5.0,Yes,POWER JOB PERSONAL SO.,150
+1365,jenny landry,61.0,Other,jenny.landry at yahoo.com,034.084.8729,south africa,64784,05-30-2018,"January 03, 2021",Books,327.74,38490.06,1.0,No,See attached file!!!,N/A
+1301,Heather Moore,,M,heather.moore@gmail.com,801.561.9318,United States,29873,2018-02-08,15/12/2018,ELECTRONICS,242.06,56396.04,,Yes,N/A,150
+1294,  Michael Moore  ,32.0,Non-binary,michael.moore@gmail.com,unknown,United States of America,65423,,27/02/2020,Electronics,264.86,78263.28,,true,Picture modern fact join trade local chance.,-
+1377,courtney simmons,85.0,Male,COURTNEY.SIMMONS@YAHOO.COM,(086) 041-4545,Germany,937,29/09/2020,10/05/2023,Clothing,335.88,"$26,850.72",2.0,true,,100
+1348,,150.0,M,taylor@hotmail.com,2300857666,Uk,97781,17/08/2024,13 Nov 2022,electronics,476.47,56939.92,5.0,1,NULL,-
+1112,,16.0,,,unknown,U.S.,21208,2020/03/07,2022-08-20,Home & Garden,286.85,38954.45,4.0,N,,100
+1179,  Eric Cooper  ,85.0,M,eric.cooper@yahoo.com,621-372-1386,United States of America,44860,2023/01/30,"April 22, 2020",Toys,471.95,"$74,267.52",,1,See attached file!!!,
+1452,  Lauren Cooper  ,12.0,m,lauren.cooper@hotmail.com,unknown,UK,28664,2021/11/07,2021/10/31,,409.05,0,5.0,1,Store allow risk high young bad.,
+1347,scott olson,67.0,Female,scott.olson@yahoo.com,566-277-6896,england,20932,,05-19-2018,electronics,-428.01,52397.14,4.0,yes,See attached file!!!,N/A
+1338,Michelle Evans,38.0,F,michelle.evans@company.com,926-329-6762,germany,92057,,N/A,clothing ,,76975.54,3.0,yes,RECENTLY REVEAL DESCRIBE MANAGEMENT.,
+1497,judith sharp,12.0,m,judith.sharp at yahoo.com,327.352.4103,United States,76208,29/06/2023,0000-00-00,Home & Garden,377.9,34295.15,3.0,no,,N/A
+1370,,84.0,f,shirley@hotmail.com,+1-290-148-7068,United Kingdom,96288,22 Feb 2020,13 Mar 2020,Home & Garden,187.59,"$59,873.74",4.0,true,Look middle your thousand.,N/A
+1233,toni miller,68.0,M,toni.miller@hotmail.com,+1-894-905-8077,usa,67696,N/A,"March 25, 2021",Clothing,344.06,70179.38,4.0,true,,200.5
+1460,,9.0,,christopher@gmail.com,241.513.1528,RSA,44454,11 Dec 2020,2022-06-05,Books,434.13,74431.42,2.0,no,NULL,200.5
+1462,  Dennis James  ,63.0,f,dennis.james@gmail.com,9357824347,France,64755,20/08/2021,2021/10/04,Toys,385.32,82372.63,3.0,1,,200.5
+1164,Timothy Williams,78.0,f,timothy.williams@yahoo.com,(590) 947-9851,United States of America,93258,16/11/2023,02/05/2024,electronics,-420.56,60009.86,3.0,false,NULL,200.5
+1136,derrick brown,23.0,,derrick.brown@gmail.com,115-869-3806,Deutschland,68996,2024/10/07,2022/11/03,home and garden,402.14,66737.14,5.0,No,See attached file!!!,100
+1197,Albert Vincent,43.0,Other,,9351863878,france,20703,"April 28, 2020",2018/08/13,electronics,235.35 USD,33582.15,5.0,no,,150
+1258,  Caitlyn Nichols  ,11.0,Male,caitlyn.nichols@hotmail.com,+1-222-231-0592,France,58289,12 Oct 2022,07-22-2021,Toys,451.23,"$72,048.67",2.0,No,N/A,-
+1232,  Jonathan Simon  ,19.0,,jonathan.simon@gmail.com,+1-846-895-0097,Deutschland,,2023/01/16,2022-05-24,home and garden,425.07,48694.62,4.0,1,LET BACK THREE BECAUSE LINE.,100
+1115,,77.0,M,brittany at gmail.com,656-523-4138,france,79275,20/09/2019,"February 18, 2019",home and garden,56.93,"$63,081.02",2.0,Y,   ,N/A
+1120,Amanda Pratt,,Other,,unknown,South Africa,94089,22/04/2024,11/08/2018,,330.3,16624.58,3.0,1,,150
+1369,Deanna Parks,42.0,F,deanna.parks@gmail.com,+1-222-694-0539,south africa,55321,26/04/2019,04-28-2023,,477.9,38555.59,4.0,Y,N/A,200.5
+1224,MELISSA WHEELER,8.0,M,melissa.wheeler@yahoo.com,157.018.4094,USA,,2023/08/29,,ELECTRONICS,254.35,132054.63,2.0,Y,N/A,-
+1414,  Jacqueline Chan  ,30.0,f,JACQUELINE.CHAN@GMAIL.COM,unknown,Deutschland,16531,17/04/2022,11-29-2022,electronics,158.71,12522.09,5.0,No,   ,200.5
+1355,tracy fitzgerald,72.0,Female,tracy.fitzgerald@gmail.com,unknown,usa,89358,2018-07-05,"August 02, 2022",Books,368.05,78162.22,1.0,0,,200.5
+1127,  Terry Hill  ,25.0,f,terry.hill@gmail.com,720-999-3476,U.S.,72680,22/01/2025,"January 12, 2024",electronics,81.11,-1000,3.0,1,N/A,150
+1285,  Nicholas Green  ,22.0,Non-binary,NICHOLAS.GREEN@GMAIL.COM,9543165266,france,75263,21 Jun 2024,2021/12/13,Electronics,98.1,30044.34,3.0,Y,,N/A
+1423,,25.0,F,catherine@yahoo.com,861-031-3100,South Africa,75897,2021/12/11,2023/09/14,Electronics,53.83,"$37,031.71",2.0,0,Draw mother every third record.,N/A
+1107,ANTHONY HOWARD,43.0,Female,,0723688767,RSA,,05-26-2021,07/02/2019,Home & Garden,211.3,55102.27,5.0,N,Report kitchen cold not somebody determine.,-
+1381,Paul Cruz,82.0,M,paul.cruz@hotmail.com,(669) 432-0293,U.S.,78110,"June 01, 2019",15 Nov 2021,books,-25.12,84507.12,1.0,true,N/A,150
+1333,Patrick Mack,,m,patrick.mack at gmail.com,439.284.0445,United States,,07-19-2019,15/04/2024,Clothing,-459.54,43168.57,4.0,true,See attached file!!!,
+1133,  Jason Macias  ,67.0,m,jason.macias@hotmail.com,+1-586-179-3271,RSA,04880,2018/11/15,07-21-2022,,,83055.89,5.0,,NULL,200.5
+1374,  Gary Johnson  ,46.0,f,gary.johnson@company.com,unknown,S. Africa,87821,18/05/2024,28/03/2021,clothing ,387.84,,100.0,,,-
+1044,Stephen Taylor,11.0,m,stephen.taylor@hotmail.com,758.692.6179,France,539,2022/10/01,05-27-2020,ELECTRONICS,151.42,25429.56,3.0,0,,100
+1476,Cheryl Brooks,52.0,M,cheryl.brooks@hotmail.com,unknown,england,98494,15/06/2020,2024/01/30,Home & Garden,125.03,27397.97,1.0,true,See attached file!!!,-
+1065,ELIZABETH MORRISON,65.0,Female,elizabeth.morrison@yahoo.com,627.570.5964,United Kingdom,84317,2023-06-26,2019/06/25,Toys,363.02,31075.87,,N,N/A,-
+1283,  Adam Yu  ,57.0,f,,441-343-2756,Deutschland,04941,,2024/06/04,,244.67,"$34,512.25",,1,,N/A
+1085,nicole good,53.0,M,nicole.good@yahoo.com,7868633752,england,36630,28 May 2022,17 Mar 2022,home and garden,142.72,62142.25,,No,DRIVE ATTACK ORDER.,100
+1242,,18.0,Other,amber@company.com,067-198-5546,Germany,07735,06-08-2022,"February 10, 2021",Toys,355.16,22745.68,5.0,Yes,   ,N/A
+1186,  James Thomas  ,37.0,m,JAMES.THOMAS@GMAIL.COM,(270) 267-2885,usa,64283,2019-05-07,07/05/2024,Books,42.48,38683.79,3.0,Y,,-
+1395,dakota hickman,65.0,m,dakota.hickman@company.com,unknown,United States of America,32002,26 Feb 2020,10-06-2019,home and garden,138.34,68802.88,3.0,N,,-
+1159,ROGER LEE,6.0,f,roger.lee@yahoo.com,516.091.7798,S. Africa,18148,2024/09/03,04/06/2022,Electronics,134.97,70636.46,2.0,false,See attached file!!!,100
+1012,ARIEL MEDINA,56.0,f,ariel.medina@hotmail.com,unknown,United Kingdom,66808,2022-11-22,03-18-2020,,424.77,59839.25,3.0,1,,N/A
+1035,JUAN TRAN,7.0,Male,juan.tran@gmail.com,unknown,,12718,26/08/2023,11-06-2023,Books,216.01,30583.13,2.0,No,,150
+1028,,43.0,F,ronald at company.com,,United States of America,98272,2019-09-25,"June 17, 2022",books,161.75,"$42,987.23",,,NULL,150
+1170,Mr. Matthew Steele,21.0,m,mr..matthew.steele@yahoo.com,299-556-2053,U.S.,29536,08-15-2021,2024-03-04,clothing ,209.81,,5.0,No,MAIN BOARD POPULATION BANK EXACTLY.,150
+1142,jaime wheeler,88.0,Female,jaime.wheeler@yahoo.com,(279) 855-2414,United Kingdom,04098,12-08-2024,,books,424.77,44930.49,3.0,false,,150
+1410,SUSAN CLARK,75.0,Male,susan.clark@yahoo.com,,usa,13696,2023-11-18,12-01-2022,ELECTRONICS,489.6,98796.06,3.0,No,SPEAK CONFERENCE ACT CONDITION NOTE PARENT ALL.,N/A
+1436,TAMMY JONES,44.0,F,tammy.jones@company.com,unknown,usa,,23/07/2019,2019-01-11,electronics,314.6,55104.87,4.0,Y,Heavy line probably office until simple moment.,150
+1221,andrew taylor,65.0,F,ANDREW.TAYLOR@HOTMAIL.COM,,UK,20867,2019-07-12,2018-12-03,Toys,424.25,65300.71,3.0,yes,,200.5
+1095,  Adam Jackson  ,26.0,Male,adam.jackson@gmail.com,+1-765-918-0339,usa,62825,30 Apr 2020,"October 08, 2019",Clothing,167.26 USD,44404.8,3.0,Y,,N/A
+1051,  Luke Craig  ,8.0,F,luke.craig@company.com,476-797-6438,United States of America,15419,2022-11-30,23 Jan 2022,Books,189.15,19739.2,2.0,No,Involve exist question main project animal.,200.5
+1240,RICHARD REYES,55.0,Male,richard.reyes at company.com,unknown,France,44102,2020/12/16,"June 29, 2023",ELECTRONICS,231.57,17654.7,1.0,yes,,N/A
+1383,  David Smith  ,,Female,,(916) 498-3735,Uk,35732,0000-00-00,22/08/2021,Books,319.21,"$72,153.19",3.0,false,,-
+1351,REBECCA OLSEN,34.0,m,,4364027011,france,91768,25/09/2024,2023-09-25,Toys,322.73,96847.75,4.0,,,100
+1390,  Joseph Patel PhD  ,21.0,m,joseph.patel.phd@company.com,(619) 689-3135,United States of America,00876,N/A,2020/05/16,books,498.08,38455.38,5.0,N,,
+1178,Daniel Brock,31.0,Female,daniel.brock@company.com,unknown,Germany,54089,2022/11/19,"November 16, 2018",,166.06 USD,38586.35,5.0,No,See attached file!!!,-
+1041,,150.0,f,julie at yahoo.com,(439) 533-9421,RSA,82743,28/08/2019,"September 19, 2019",Books,381.14,58427.37,3.0,yes,BED FAR SECTION COMPARE.,150
+1448,Denise Lutz,999.0,m,denise.lutz@gmail.com,8459609454,United Kingdom,86907,"May 11, 2022",08 Nov 2019,Toys,128.02,80553.54,3.0,Yes,NULL,150
+1399,,73.0,Non-binary,christine@hotmail.com,275.895.5168,U.S.,59495,2024-05-04,2023-10-05,Clothing,384.72,56953.52,3.0,No,,100
+1206,WENDY NEAL,22.0,Other,wendy.neal@hotmail.com,069.804.2043,RSA,917,N/A,10-24-2023,ELECTRONICS,81.5,72127.98,5.0,1,N/A,100
+1282,emily coleman,2.0,f,emily.coleman@gmail.com,+1-342-575-4090,UK,97422,01-29-2019,"October 13, 2023",home and garden,63.81,-9825.35,1.0,false,See attached file!!!,100
+1358,NATASHA WILSON,36.0,F,natasha.wilson@gmail.com,(525) 690-4098,France,25386,"February 01, 2023",2021-07-13,Home & Garden,281.29,67566.91,5.0,true,   ,-
+1254,melissa salazar,89.0,,melissa.salazar@hotmail.com,9319508501,Germany,50695,06 Mar 2019,"January 16, 2018",Clothing,385.33,67678.38,1.0,N,Let American hand possible relate night.,200.5
+1424,HANNAH ROBERTS,27.0,F,hannah.roberts@gmail.com,9401289743,UK,22813,07-24-2020,18/09/2024,Toys,432.55,64838.38,1.0,true,See attached file!!!,
+1004,  Maria Thomas  ,65.0,Female,maria.thomas@yahoo.com,238-849-6965,south africa,29247,04-04-2019,26/08/2018,Books,489.1,50316.93,5.0,0,See attached file!!!,200.5
+1256,  Christopher Mullen  ,85.0,Male,CHRISTOPHER.MULLEN@COMPANY.COM,(112) 412-7238,United Kingdom,82719,"March 30, 2022",2020-09-28,clothing ,167.2 USD,58729.09,5.0,false,   ,
+1461,Ryan Guerrero,56.0,M,ryan.guerrero@gmail.com,003-296-3347,RSA,20349,24 Feb 2021,2024/01/02,books,379.92,67907.52,5.0,yes,ABOUT ATTACK NEWSPAPER DECADE CONCERN.,-
+1100,ROBERT VILLARREAL,47.0,F,robert.villarreal@company.com,(924) 593-7526,Germany,42331,"June 19, 2023",11-18-2024,clothing ,-150.79,48446.76,5.0,Yes,,100
+1226,  Melissa Jensen  ,72.0,,melissa.jensen@gmail.com,453-817-9217,United Kingdom,13249,10/01/2020,26/07/2024,,460.6,77711.31,1.0,true,,200.5
+1439,STEPHANIE WARD,53.0,,stephanie.ward@hotmail.com,+1-698-152-8733,germany,75260,"August 05, 2019",07-26-2019,Home & Garden,,67457.0,5.0,yes,   ,100
+1213,mrs. jasmine hubbard,18.0,m,mrs..jasmine.hubbard@company.com,unknown,france,06962,2023/05/04,2023/07/20,clothing ,18.93 USD,56164.17,1.0,,,200.5
+1434,,4.0,,william at yahoo.com,+1-837-744-1975,Germany,88017,"January 22, 2021",,,,23111.45,4.0,true,See attached file!!!,150
+1171,,37.0,Non-binary,jessica@hotmail.com,(110) 809-9693,,05305,01 Feb 2025,,Electronics,399.38,92315.49,,N,   ,150
+1098,  Ian Nelson  ,63.0,f,ian.nelson@hotmail.com,(212) 678-8861,United States,03943,2021-02-24,20/07/2024,clothing ,396.66,74372.9,4.0,N,,200.5
+1292,Jordan Moses,47.0,Non-binary,jordan.moses@hotmail.com,(905) 097-5923,United States of America,06881,2022-11-13,,home and garden,168.95 USD,83825.47,3.0,No,See attached file!!!,100
+1215,  Madison Miller  ,86.0,f,madison.miller@hotmail.com,689-268-6025,france,74621,2020-12-22,"January 02, 2025",,38.3,62155.75,3.0,1,NULL,-
+1061,Fernando Garcia,69.0,m,fernando.garcia@hotmail.com,(522) 047-2779,USA,01189,16/12/2023,2023-04-19,ELECTRONICS,467.84,74510.9,1.0,No,   ,-
+1047,  Kelly Ellis  ,61.0,Male,KELLY.ELLIS@COMPANY.COM,0076617711,United Kingdom,42720,"February 26, 2024",08-31-2020,,59.87,,2.0,yes,NULL,150
+1032,CHRISTOPHER PARKER,29.0,Non-binary,christopher.parker at hotmail.com,947-174-6488,germany,65223,2020/12/09,,books,306.99,54730.06,1.0,yes,Ball always it focus economy before.,
+1267,,70.0,Non-binary,scott@gmail.com,985-240-1322,S. Africa,90684,19 Feb 2018,"February 14, 2021",home and garden,301.44,90309.08,2.0,Y,N/A,150
+1327,Christopher Gibson,14.0,f,christopher.gibson@hotmail.com,(073) 033-7933,France,63513,17/06/2019,2024/12/16,home and garden,157.04,43796.38,2.0,Yes,AIR BOY FACT CREATE ONE SHE.,150
+1200,Lindsay Mahoney,17.0,m,lindsay.mahoney@hotmail.com,585-566-5939,United States of America,72017,11/02/2023,17/01/2020,ELECTRONICS,62.87,69280.01,1.0,,,
+1483,Jessica Jensen,84.0,M,JESSICA.JENSEN@HOTMAIL.COM,(996) 673-4595,germany,63750,,11-08-2018,Electronics,476.54,53217.6,,0,   ,-
+1027,,1.0,m,hunter@company.com,3545494808,france,25543,26 Mar 2022,2020/09/05,Home & Garden,354.09,62513.96,4.0,Yes,,N/A
+1425,Tracy Aguilar,25.0,,tracy.aguilar@gmail.com,+1-737-100-9438,United States of America,66449,2020-07-02,2023-06-25,clothing ,358.94,28595.34,1.0,true,   ,150
+1230,STEVEN FAULKNER,73.0,m,STEVEN.FAULKNER@GMAIL.COM,+1-085-140-3696,UK,82449,2022-05-29,"August 02, 2024",clothing ,459.47,5000000,1.0,true,Republican image itself deep community cause.,100
+1260,ryan griffin,67.0,Other,RYAN.GRIFFIN@COMPANY.COM,+1-150-939-8343,Germany,03456,,2019/07/24,Books,417.98,52705.27,5.0,Y,,
+1378,  Eric Davis  ,55.0,Non-binary,eric.davis@hotmail.com,(082) 555-9895,UK,31729,02-20-2022,2022-06-19,Clothing,50.96,40631.12,4.0,Yes,NULL,100
+1288,,52.0,,rebekah at hotmail.com,(990) 048-9646,United States of America,88484,2020-12-31,"October 17, 2020",Home & Garden,253.6,46199.11,3.0,,N/A,-
+1162,  Candace Mitchell  ,90.0,m,,420-438-0571,U.S.,81255,"January 16, 2021",03-20-2018,home and garden,356.3,"$65,438.83",4.0,1,Ten score night down six sometimes explain.,100
+1437,Andrea Johnson,1.0,F,andrea.johnson@yahoo.com,(231) 177-5331,usa,23307,07/11/2018,28 Oct 2019,books,113.04,"$55,939.61",3.0,Y,,100
+1138,  Sylvia Smith  ,62.0,m,sylvia.smith@hotmail.com,998.616.2299,usa,76873,"January 04, 2023",2021/10/18,home and garden,7.62 USD,35189.27,1.0,Y,   ,200.5
+1062,,5.0,Male,ALLEN@YAHOO.COM,+1-893-246-0953,UK,75299,,2024/05/15,Toys,249.49,45416.52,-1.0,false,NULL,200.5
+1135,,82.0,M,madison@hotmail.com,+1-973-103-2417,Deutschland,15640,2022/08/10,"December 27, 2024",Books,39.08,,5.0,,See attached file!!!,
+1128,,34.0,Non-binary,LUIS@COMPANY.COM,unknown,United States,29208,2024-12-07,10-25-2018,clothing ,144.35,"$31,626.44",2.0,yes,See attached file!!!,N/A
+1492,jason smith,6.0,F,jason.smith@yahoo.com,624-479-5133,United Kingdom,02869,26 Feb 2018,05-20-2019,Toys,333.24,35285.48,2.0,false,FORGET HOME UPON ACTUALLY FUTURE GET KNOW LEFT.,
+1008,Cindy Anderson,73.0,Female,cindy.anderson@gmail.com,unknown,south africa,75348,"April 16, 2020",13 May 2021,Books,283.68 USD,45610.51,3.0,No,   ,100
+1326,,17.0,f,carrie@company.com,(450) 892-0388,,07658,07-01-2023,12-16-2020,Clothing,368.96,"$38,420.10",,no,REASON WORD OUTSIDE FORMER OFFICIAL WHITE PATTERN.,
+1478,Emily Hodge,18.0,m,emily.hodge@hotmail.com,439.055.2958,,023,11-08-2019,,Clothing,449.04,53889.05,1.0,0,NULL,200.5
+1064,  Andrew Lucas  ,88.0,Other,andrew.lucas@hotmail.com,4505415667,england,51179,02 Jul 2019,"August 31, 2022",Toys,382.12,32873.3,3.0,No,N/A,
+1300,terry morgan,56.0,f,terry.morgan at company.com,(972) 466-5729,United Kingdom,27660,"January 09, 2020","June 03, 2022",Clothing,324.33,42995.66,,No,See attached file!!!,200.5
+1014,WILLIAM MARTIN,,,william.martin@gmail.com,786.801.1280,S. Africa,48894,N/A,13 Mar 2019,Books,128.35,20501.64,5.0,N,PROJECT GOVERNMENT NICE THEMSELVES WIND.,-
+1156,AMY SCHNEIDER MD,69.0,Non-binary,amy.schneider.md@yahoo.com,unknown,Germany,62011,06-19-2024,03/03/2019,Toys,499.22,22850.34,3.0,true,See attached file!!!,200.5
+1040,,86.0,f,,482-175-9464,Germany,,11-15-2018,N/A,Home & Garden,474.07,69769.33,11.0,0,See attached file!!!,100
+1379,Jeremy Garcia,51.0,Other,jeremy.garcia@company.com,895.473.8202,S. Africa,25628,20/02/2018,2023-02-06,Electronics,133.03,50731.06,4.0,N,,100
+1473,  Angela Hernandez  ,22.0,M,angela.hernandez@yahoo.com,,France,96269,,07-11-2022,clothing ,401.61,85047.14,5.0,0,N/A,150
+1415,MICHELLE SHAH,77.0,Non-binary,michelle.shah@yahoo.com,+1-196-655-3307,usa,65860,2021/04/18,2022-12-18,Electronics,417.46,44484.9,1.0,Y,   ,150
+1216,Dale Dean,41.0,Female,dale.dean@hotmail.com,(407) 778-0973,United States,28927,16/10/2023,03-30-2023,home and garden,364.67 USD,66215.69,3.0,true,See attached file!!!,100
+1279,curtis ford,38.0,F,curtis.ford@hotmail.com,324-665-1364,,38124,N/A,2018/09/11,Home & Garden,399.77,70492.68,-1.0,1,AGREE SOMEONE FINANCIAL MAGAZINE YARD.,100
+1447,,72.0,f,karen@yahoo.com,(305) 966-0186,south africa,95042,2022-05-28,28 Sep 2023,electronics,437.75,24317.72,5.0,Y,,200.5
+1486,patrick willis ii,21.0,Other,patrick.willis.ii@yahoo.com,923-555-8099,south africa,99025,2022-11-07,18/11/2019,electronics,373.6,62331.96,3.0,,,100
+1000,STEVEN CLARK,16.0,Other,STEVEN.CLARK@YAHOO.COM,+1-346-729-9493,USA,66361,13 May 2021,02-18-2024,,77.39 USD,50646.38,5.0,1,   ,N/A
+1236,jennifer reyes,43.0,Male,jennifer.reyes@yahoo.com,(723) 950-4102,Deutschland,61320,31/08/2023,"January 17, 2022",home and garden,73.31,50263.63,3.0,Yes,LISTEN CERTAIN THAT ACTIVITY UNTIL LARGE.,
+1207,William Garcia,10.0,F,william.garcia@gmail.com,+1-579-812-3878,France,93885,N/A,01/05/2019,clothing ,69.46 USD,59281.87,,false,See attached file!!!,100
+1212,,20.0,m,christina@gmail.com,+1-573-660-9656,germany,80652,02 Aug 2023,,Electronics,440.66,58074.5,,yes,NULL,200.5
+1295,  Kristen Lowery  ,47.0,m,kristen.lowery@company.com,818-661-7945,USA,33906,10/08/2021,31/10/2022,electronics,11.76,55204.66,5.0,1,,150
+1470,angela garcia dds,,Male,angela.garcia.dds@yahoo.com,6202812371,germany,05620,"December 19, 2019",2018-06-23,books,340.38,14215.36,5.0,N,See attached file!!!,200.5
+1251,  Judy Jackson  ,61.0,Female,judy.jackson@gmail.com,534-929-2983,germany,11835,05 Jan 2025,17 May 2018,ELECTRONICS,402.18 USD,55911.44,-1.0,1,Tax majority yet option student evidence.,200.5
+1165,kerry barajas,14.0,Male,kerry.barajas@hotmail.com,(015) 739-9305,United States,50488,07/05/2023,12/03/2022,Clothing,207.25,61928.96,2.0,no,N/A,100
+1471,  Megan Mills  ,53.0,Male,MEGAN.MILLS@COMPANY.COM,9592248395,South Africa,68577,17 Aug 2022,2020-03-24,Books,396.31,49611.86,,no,ACT INDICATE CHANGE ATTACK WITH FIND COULD.,150
+1303,Robert Peterson,86.0,m,robert.peterson@hotmail.com,821.456.5328,RSA,55776,2018-11-09,08-24-2019,Books,61.02,57270.35,4.0,N,,-
+1350,KELLY LOPEZ,60.0,M,kelly.lopez@company.com,unknown,U.S.,55937,2024/11/04,02-05-2021,ELECTRONICS,329.71,38635.59,3.0,Yes,   ,
+1269,daniel lee,83.0,M,daniel.lee@company.com,428.013.8759,USA,24765,"August 27, 2022",09-18-2021,Toys,401.72,29782.32,1.0,No,BOTH WORLD BUY BOOK CAREER SEVERAL.,N/A
+1201,  William Lewis  ,58.0,Other,WILLIAM.LEWIS@HOTMAIL.COM,(504) 888-9921,germany,05447,2019-10-02,25 Apr 2021,,400.79,"$64,464.75",1.0,yes,N/A,
+1161,donna reed,19.0,m,,228-851-5879,South Africa,75295,04-04-2018,11-14-2023,Toys,,28590.87,,yes,Purpose throw move there institution actually.,-
+1043,MICHAEL CHAMBERS,23.0,M,michael.chambers@company.com,9651370985,RSA,80465,06 May 2022,"January 28, 2025",home and garden,363.25,48977.93,2.0,N,NULL,-
+1217,  Sara Evans  ,9.0,Female,sara.evans@hotmail.com,unknown,england,11996,11/04/2019,17 Mar 2023,Electronics,139.99 USD,76661.02,1.0,false,Board year claim.,
+1401,patricia brown phd,9.0,f,patricia.brown.phd@yahoo.com,6730306442,england,11457,,2022-12-06,Clothing,226.17,55490.2,,yes,N/A,N/A
+1190,,10.0,M,tanner@company.com,848-728-2997,england,83213,2019-06-19,03 Feb 2019,electronics,299.51,71543.66,4.0,N,N/A,-
+1309,Kendra Benson,-5.0,Female,kendra.benson@yahoo.com,unknown,France,60195,30 Oct 2021,2022-10-31,Clothing,305.4,"$97,660.67",,Y,N/A,N/A
+1259,JENNIFER PORTER,70.0,Female,jennifer.porter@hotmail.com,2752088547,United Kingdom,38489,0000-00-00,05-11-2021,home and garden,380.11 USD,39149.59,4.0,no,   ,200.5
+1105,,61.0,m,,596.969.1557,USA,81419,2023/10/18,14/01/2023,Clothing,214.57,60922.41,3.0,N,N/A,100
+1053,ROBERT MONTGOMERY,18.0,Female,robert.montgomery@gmail.com,unknown,United States of America,90889,2018-12-20,24 Nov 2023,Home & Garden,227.74,47298.35,2.0,yes,See attached file!!!,-
+1389,CHARLES GRIFFIN,34.0,F,charles.griffin@hotmail.com,+1-711-964-2152,United Kingdom,24339,"September 13, 2021",09-29-2020,Books,286.27,61454.37,3.0,0,,
+1001,Donald Lewis,45.0,m,donald.lewis@company.com,unknown,South Africa,44619,12-08-2024,07-22-2020,home and garden,319.66,52234.71,1.0,0,,100
+1454,jonathan melendez,89.0,m,jonathan.melendez@company.com,(793) 763-9283,United States,,2021-04-26,10-02-2018,Toys,350.42,78585.94,4.0,,Purpose program painting somebody game brother.,200.5
+1498,joseph harrison,6.0,Male,joseph.harrison@yahoo.com,,germany,51005,2019-07-05,01-12-2025,ELECTRONICS,8.77,43927.01,-1.0,no,N/A,-
+1049,,83.0,Male,dale@company.com,(832) 731-5851,U.S.,37013,2023-02-18,06-21-2018,books,23.13,"$61,872.37",3.0,No,,150
+1419,lonnie burnett,,,lonnie.burnett at hotmail.com,422.971.2529,S. Africa,54672,"April 11, 2022",06-28-2021,electronics,203.71,61835.12,5.0,Y,Property miss drive long majority exactly significant.,
+1080,  Tonya Howe  ,27.0,Other,tonya.howe at company.com,004-991-5478,South Africa,,2019-04-17,"November 05, 2019",books,233.72,56740.94,5.0,no,POSSIBLE RESPONSIBILITY ADD FRONT FAR PURPOSE COVER.,N/A
+1205,LISA BRANCH MD,47.0,,lisa.branch.md@hotmail.com,270-335-2110,RSA,32357,2024-06-14,02 Aug 2021,clothing ,-319.94,46069.7,,no,,200.5
+1034,VIRGINIA SANDOVAL,83.0,M,,(876) 038-5977,,07265,20/03/2024,,ELECTRONICS,272.41,"$71,450.90",2.0,0,,N/A
+1430,,60.0,Other,belinda@company.com,+1-342-683-4414,usa,74774,01-27-2023,2022-08-16,Toys,261.16,20737.31,3.0,,,150
+1263,  Cody James  ,19.0,,,(870) 494-7873,France,04018,20 May 2024,"March 25, 2021",clothing ,412.6,30994.07,4.0,,,100
+1427,Meghan Nolan,83.0,M,meghan.nolan@yahoo.com,782.455.6964,United Kingdom,41044,2022-12-03,12-05-2023,Electronics,-37.24,91629.18,1.0,yes,N/A,100
+1366,TINA GUZMAN,2.0,Male,tina.guzman@gmail.com,395-429-6184,Germany,34668,2025/01/08,2022-06-24,Toys,164.58,48572.28,5.0,N,NULL,N/A
+1091,  Sean Figueroa  ,85.0,Male,sean.figueroa@yahoo.com,unknown,France,02626,27/11/2020,2019-04-29,clothing ,290.44 USD,73308.04,5.0,yes,,200.5
+1339,Kristen Carney MD,21.0,f,kristen.carney.md@yahoo.com,185-672-4380,UK,61078,"December 12, 2021",07-28-2019,electronics,324.34,71508.33,5.0,Y,,100
+1488,  Kathryn Norman  ,,F,,(585) 126-8612,Uk,01412,09-19-2019,12-15-2023,Electronics,,44722.66,,yes,N/A,100
+1052,bryan jimenez,50.0,Other,bryan.jimenez@hotmail.com,622.683.8851,Deutschland,52545,2019-07-10,"December 26, 2018",electronics,148.73,61481.68,3.0,1,   ,200.5
+1345,,57.0,F,edward@hotmail.com,(303) 975-2450,england,687,11/02/2018,,Electronics,128.71 USD,,3.0,Yes,,-
+1264,,90.0,M,carol@yahoo.com,597-964-7158,United Kingdom,96571,2022/08/12,08-29-2023,Electronics,41.23,48309.98,4.0,Yes,Adult employee ok certainly leave really group.,200.5
+1241,MASON GAINES,53.0,F,mason.gaines at hotmail.com,4101194707,South Africa,20011,25/04/2018,06-03-2021,electronics,38.44 USD,68725.2,3.0,true,TOWARD OFF MIDDLE VOTE MAKE JOB.,N/A
+1013,elizabeth alvarado,49.0,Male,elizabeth.alvarado@hotmail.com,(241) 182-4493,Germany,94559,"October 20, 2024",25 Sep 2023,Toys,260.15,16734.4,2.0,no,,100
+1315,  Walter Brooks  ,3.0,m,walter.brooks@gmail.com,+1-238-687-0079,RSA,38413,31 Jan 2024,22 Dec 2019,books,146.09,42546.01,1.0,No,N/A,200.5
+1088,  Kristin Anderson  ,39.0,Male,kristin.anderson@yahoo.com,,,,04 Nov 2019,2022/08/14,electronics,65.96,44634.6,1.0,no,NULL,N/A
+1387,thomas cohen,61.0,F,thomas.cohen@gmail.com,unknown,France,90516,24 Oct 2019,03-29-2020,,126.3,54629.74,1.0,0,,150
+1273,eric hanson,78.0,Male,,187.734.7784,S. Africa,71599,2024-07-28,10-15-2022,home and garden,368.3,"$24,612.60",3.0,yes,NULL,150
+1166,brendan bonilla,57.0,,brendan.bonilla@company.com,unknown,S. Africa,71014,2022/06/03,2018/06/07,Clothing,200.83,41399.51,,Y,STOCK THESE SCIENTIST ITSELF STAGE AUTHORITY RATHER.,
+1328,allen gonzalez,61.0,Other,allen.gonzalez@hotmail.com,(234) 258-3230,United States of America,23579,2022/10/31,"July 21, 2018",Clothing,299.05,69945.87,1.0,no,N/A,200.5
+1284,Lance Li,3.0,Non-binary,lance.li at company.com,570.027.2063,usa,82853,"April 29, 2020",2020-01-08,ELECTRONICS,328.06 USD,49948.64,,No,NULL,
+1134,lisa webb,21.0,f,lisa.webb@gmail.com,062-962-0153,Deutschland,25402,17/05/2023,2020-09-25,books,,"$26,962.98",2.0,1,See attached file!!!,N/A
+1306,Emily Peterson,68.0,m,emily.peterson@hotmail.com,,usa,83821,0000-00-00,"October 02, 2022",clothing ,253.43,86720.34,2.0,no,See attached file!!!,100
+1496,,30.0,Non-binary,robert@gmail.com,(309) 329-9819,Germany,75288,19 Apr 2020,25 Feb 2024,Home & Garden,131.95,52859.39,2.0,No,,200.5
+1319,brandon austin,69.0,Female,brandon.austin@company.com,(433) 750-4793,United States,01436,2024-07-01,08-04-2019,Home & Garden,107.95,71992.04,2.0,,See attached file!!!,150
+1243,Lydia Howard,3.0,F,lydia.howard@yahoo.com,173.203.0937,,51457,2023/12/26,04-06-2018,Home & Garden,50.06,45561.36,2.0,Y,See attached file!!!,
+1054,,8.0,F,michael@hotmail.com,2312432921,France,23719,11-20-2018,01-04-2025,,81.33,41461.56,1.0,No,Management senior service large under north play person.,150
+1363,Holly Wilson,35.0,F,,117.830.9997,Germany,,2024/01/28,22/05/2022,home and garden,16.6,74502.39,3.0,true,N/A,150
+1050,Kylie Morales,57.0,Non-binary,kylie.morales@yahoo.com,unknown,Uk,19096,2022-10-05,04-18-2021,Books,215.93,,3.0,0,See attached file!!!,-
+1469,JAMIE MASSEY,74.0,Male,jamie.massey@company.com,(893) 074-6452,U.S.,052,02-20-2019,2023/03/10,ELECTRONICS,9.33,"$31,334.83",1.0,true,,150
+1174,,15.0,f,carolyn@yahoo.com,,Deutschland,16010,24/09/2019,06-25-2021,books,70.69,68131.07,,Yes,N/A,150
+1445,juan melton,9.0,Male,juan.melton@yahoo.com,3845881056,south africa,929,2021-11-08,"June 10, 2022",Books,382.57,,1.0,Yes,   ,200.5
+1189,Christine Sanders,39.0,Non-binary,christine.sanders@hotmail.com,(117) 800-6811,United States of America,,"April 14, 2018","January 24, 2024",Books,13.13,60533.82,5.0,false,,200.5
+1065,ELIZABETH MORRISON,65.0,Female,elizabeth.morrison@yahoo.com,627.570.5964,United Kingdom,84317,2023-06-26,2019/06/25,Toys,363.02,31075.87,,N,N/A,200.5
+1463,patricia webb,75.0,Other,patricia.webb@hotmail.com,7963044836,UK,08470,07-29-2023,16 May 2024,clothing ,191.4,0,4.0,1,NULL,150
+1187,JUSTIN FREDERICK,8.0,Non-binary,justin.frederick@gmail.com,450-615-9399,Deutschland,85680,2020/04/01,24 Jan 2024,clothing ,41.1,53457.97,1.0,Yes,See attached file!!!,100
+1169,MATTHEW HUNT,64.0,Other,matthew.hunt@company.com,+1-223-943-1290,germany,989,2024-09-24,,ELECTRONICS,-177.76,40712.97,1.0,Yes,N/A,150
+1058,  Sherri Williamson  ,67.0,,sherri.williamson@yahoo.com,unknown,South Africa,78783,2023/09/09,03-10-2018,clothing ,-364.04,38215.65,5.0,0,   ,
+1474,kara jackson,49.0,f,kara.jackson@company.com,(331) 922-2705,U.S.,10696,0000-00-00,29/06/2019,ELECTRONICS,286.25,56481.9,,false,N/A,N/A
+1048,Jesse Perez,,f,jesse.perez@company.com,5766156545,U.S.,20507,2024/02/07,2023-04-10,Electronics,38.44,76142.44,2.0,Yes,,N/A
+1344,,11.0,Other,CHARLOTTE@YAHOO.COM,,France,77182,05 Dec 2021,N/A,Clothing,430.85,"$48,794.66",2.0,true,See attached file!!!,N/A
+1235,Mary Wood,44.0,f,mary.wood@hotmail.com,unknown,usa,23490,29 Nov 2022,2024/11/05,Electronics,87.69,39543.5,5.0,false,N/A,
+1252,  Kenneth Smith  ,52.0,F,kenneth.smith@company.com,007-806-8671,germany,59803,2022/10/20,17 Apr 2018,Electronics,38.43,41967.99,4.0,false,ADMINISTRATION PROTECT CLASS LEARN.,100
+1021,pamela boyd,25.0,f,pamela.boyd@yahoo.com,unknown,France,82650,16/02/2019,28/12/2023,ELECTRONICS,-377.63,50484.47,1.0,Y,BALL CHARACTER HIM CHECK DEGREE INCREASE FORMER.,100
+1313,clayton tate,9.0,m,clayton.tate@hotmail.com,(246) 209-5200,Uk,39563,2018-08-09,01/05/2021,books,84.54,66766.34,,0,   ,N/A
+1459,ryan fischer,18.0,Non-binary,,,United States,04085,2020/12/25,01/08/2021,Books,110.99,50020.72,,,,100
+1160,,79.0,Other,nicole@gmail.com,unknown,U.S.,55376,22 Aug 2022,04-10-2018,Books,223.03,30260.99,1.0,No,Trouble several event white wife laugh card include.,-
+1276,  Matthew Henderson  ,44.0,f,matthew.henderson@hotmail.com,,RSA,67971,2019-02-15,2019-07-23,Clothing,311.08,80338.22,3.0,Yes,,-
+1443,  Jeffery Taylor  ,63.0,f,jeffery.taylor@yahoo.com,unknown,usa,57904,"September 06, 2018",0000-00-00,clothing ,151.57 USD,65288.78,2.0,false,See attached file!!!,-
+1191,,42.0,Female,alan@yahoo.com,+1-774-064-9308,UK,49475,16/03/2024,0000-00-00,Books,8.58,55260.04,4.0,yes,   ,N/A
+1385,  Nathaniel Taylor  ,63.0,Female,nathaniel.taylor@yahoo.com,+1-091-660-1002,United Kingdom,33051,2019/03/30,2022/07/01,,386.4,54619.68,5.0,1,See attached file!!!,150
+1293,James Holland,88.0,Male,james.holland@company.com,+1-214-764-9251,United States of America,48664,0000-00-00,2020-08-26,Electronics,148.29,26282.76,2.0,Y,N/A,200.5
+1413,jeremy carlson,4.0,f,jeremy.carlson@company.com,4591966395,RSA,49516,11-10-2021,07-15-2018,ELECTRONICS,386.55,43012.15,4.0,No,,200.5
+1491,Traci Leon,8.0,Non-binary,traci.leon@company.com,+1-944-988-3059,,62487,06-26-2024,09-18-2022,home and garden,374.66,74102.85,2.0,yes,Set join section sing everybody.,
+1343,,65.0,m,carlos@gmail.com,3649718924,United States,,09-23-2022,2020/04/16,Electronics,41.09,68639.06,,No,See attached file!!!,-
+1257,ALEX PHAM,85.0,F,alex.pham@company.com,+1-856-955-7988,France,58861,"August 11, 2021",20 Jul 2023,,107.56,41764.27,4.0,0,,100
+1308,MICHAEL POOLE,11.0,M,michael.poole at company.com,110-627-3715,RSA,89213,2022/06/19,"June 15, 2019",books,404.71,30243.69,3.0,yes,,N/A
+1149,,1.0,Other,alexandria@company.com,625.753.2603,S. Africa,29903,06-22-2020,"November 16, 2024",clothing ,427.47,39334.93,5.0,false,   ,-
+1130,,-5.0,m,matthew@company.com,(250) 029-2185,usa,10007,13/10/2018,"June 06, 2021",Home & Garden,88.48,70038.66,3.0,yes,,100
+1151,ASHLEY HIGGINS,32.0,Non-binary,ashley.higgins@company.com,141.173.9348,usa,26934,03 May 2020,"October 12, 2019",electronics,321.07,71270.34,100.0,true,,N/A
+1359,brittany campbell,20.0,,brittany.campbell@company.com,unknown,United Kingdom,,03 Oct 2018,"September 09, 2022",Toys,267.58,54755.06,4.0,,See attached file!!!,150
+1099,joseph jennings,41.0,f,joseph.jennings@gmail.com,(224) 447-2126,,36671,2023/07/10,0000-00-00,,69.59,40958.94,,0,,
+1372,  Donna Webb  ,41.0,Male,donna.webb@hotmail.com,430.963.4807,USA,814,17/08/2023,2021/02/02,Electronics,282.48,"$44,861.14",1.0,No,N/A,
+1087,LESLIE MOSS,33.0,F,leslie.moss at yahoo.com,(268) 705-6856,Germany,54012,2019-01-25,N/A,Home & Garden,494.14,0,,No,N/A,
+1458,,61.0,M,LUCAS AT COMPANY.COM,220.368.4995,RSA,13538,09/09/2023,2019-10-26,books,135.19 USD,90106.82,5.0,Yes,   ,
+1000,katherine acosta,59.0,Male,KATHERINE.ACOSTA@COMPANY.COM,791-286-8578,UK,61353,0000-00-00,10 Oct 2020,clothing ,265.01,54581.97,4.0,false,,-
+1214,Jonathan White,45.0,f,jonathan.white@gmail.com,unknown,U.S.,77236,09-26-2018,03 Jun 2018,home and garden,349.5,32140.59,4.0,No,   ,100
+1466,,23.0,Female,nicholas@gmail.com,unknown,S. Africa,53028,2020-08-09,"September 08, 2019",Electronics,139.5,68721.03,4.0,1,See attached file!!!,200.5
+1121,DR. ANDREA MARSHALL,,Male,dr..andrea.marshall@company.com,+1-445-187-0534,United Kingdom,74400,"February 20, 2020","February 06, 2025",Toys,-254.58,54469.72,5.0,false,,-
+1283,  Adam Yu  ,57.0,f,,441-343-2756,Deutschland,04941,,2024/06/04,,244.67,"$34,512.25",,1,,100
+1020,colleen brock,34.0,f,colleen.brock@hotmail.com,(870) 831-7278,Germany,73760,"September 11, 2020",2018-03-12,Toys,239.26,84312.98,3.0,Y,NULL,100
+1188,  Logan Sullivan  ,43.0,Non-binary,logan.sullivan@company.com,112-535-5449,france,84995,"April 24, 2022",01-10-2022,Toys,269.64,61823.04,2.0,1,Even know television guy only whole.,-
+1071,Jeffrey Washington,88.0,f,jeffrey.washington@company.com,(359) 255-5625,RSA,68000,17 Feb 2024,,electronics,335.77,62232.72,1.0,no,INDUSTRY WHILE TOTAL SPEND VALUE RETURN COUPLE CITY.,150
+1106,CHARLES PRICE,51.0,Other,charles.price@hotmail.com,,,78675,2022-09-15,2019-02-15,books,439.56,60221.11,4.0,yes,See attached file!!!,
+1270,KRISTIN WILLIAMS,7.0,Male,kristin.williams at yahoo.com,(571) 647-9473,england,73103,"October 12, 2022",03/10/2022,Toys,431.9,73357.24,4.0,1,See attached file!!!,100
+1435,AMANDA SANTOS,35.0,Non-binary,amanda.santos@company.com,970.527.7402,Uk,47391,06-26-2023,"December 14, 2018",Electronics,404.08,43012.5,1.0,No,Task me give relationship hospital artist pretty.,100
+1102,Robin Wheeler,45.0,Other,robin.wheeler@company.com,(113) 529-0965,UK,56921,,2020-12-05,electronics,449.57 USD,47157.84,1.0,true,,150
